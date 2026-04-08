@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <h1 align="center" style="font-family: 'Orbitron', sans-serif; text-shadow: 0 0 10px #00ffff, 0 0 20px #0088ff;">NEMESIS MD</h1>
+  <h1 align="center" style="font-family: 'Orbitron', sans-serif; text-shadow: 0 0 10px #00ffff, 0 0 20px #0088ff;">NEMESIS MD/></h1>
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/Ridz-coder01/followers"><img title="Followers" src="https://img.shields.io/github/followers/Ridz-coder01?color=00ffff&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/Ridzcoder/followers"><img title="Followers" src="https://img.shields.io/github/followers/Ridzcoder?color=00ffff&style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://github.com/Ridz-coder01/NEMESIS-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Ridz-coder01/NEMESIS-MD?color=00ffff&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
   <a href="https://github.com/Ridz-coder01/NEMESIS-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Ridz-coder01/NEMESIS-MD?color=00ffff&style=for-the-badge&logo=git&logoColor=white"></a>
   <a href="https://github.com/Ridz-coder01/NEMESIS-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/Ridz-coder01/NEMESIS-MD?style=for-the-badge&color=00ffaa&logo=docusign&logoColor=white"></a>
