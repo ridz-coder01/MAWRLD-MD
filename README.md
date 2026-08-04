@@ -103,6 +103,10 @@ Deploy <strong>NEMESIS MD V3</strong> on your preferred platform.
 
 <br/>
 
+
+  <a href="https://session-id-dkqa.onrender.com/">
+    <img src="https://img.shields.io/badge/🌐%20SESSION%20ID-Visit-black?style=for-the-badge">
+  </a>
 <p align="center">
 <img src="https://i.imgur.com/LyHic3i.gif" width="100%">
 </p>
