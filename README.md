@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <h1 align="center" style="font-family: 'Orbitron', sans-serif; text-shadow: 0 0 10px #00ffff, 0 0 20px #0088ff;">NEMESIS MD/></h1>
+  <h1 align="center" style="font-family: 'Orbitron', sans-serif; text-shadow: 0 0 10px #00ffff, 0 0 20px #0088ff;">NEMESIS MD V3/></h1>
 </p>
 
 <p align="center">
@@ -28,14 +28,14 @@ DON'T FORGET TO FORK 🍴 & STAR 🌟 OUR REPO🫠
 ```
 ---
 
-> **CURRENT BOT VERSION ➜ `2.0.0. ⚡`**
+> **CURRENT BOT VERSION ➜ `3.0.0. ⚡`**
 ---
 
-<a><img src='https://files.catbox.moe/qhl7st.png'/></a>
+<a><img src='https://files.catbox.moe/dynze8.png'/></a>
 
 <!-- ⚡ TYPING EFFECT -->
 <p align="center">
-<a href="https://github.com/RIDZ-CODER01">
+<a href="https://github.com/RIDZCODER">
 <img src="http://readme-typing-svg.herokuapp.com?color=00FFFF&center=true&vCenter=true&width=550&lines=🚀+Multi-Functional+WhatsApp+Bot;🎯+Next-Gen+Automation+For+WhatsApp;💎+By+Ridz+Coder" alt="Typing Animation">
 </a>
 </p>
@@ -44,7 +44,7 @@ DON'T FORGET TO FORK 🍴 & STAR 🌟 OUR REPO🫠
 ## 📡 DEPLOYMENT SITES
 
 <p align="center">
-Deploy <strong>NEMESIS MD</strong> on your preferred platform.
+Deploy <strong>NEMESIS MD V3</strong> on your preferred platform.
 </p>
 
 <p align="center">
@@ -89,14 +89,12 @@ Deploy <strong>NEMESIS MD</strong> on your preferred platform.
 <ol style="font-size: 16px; line-height: 2;">
 <li><code style="background-color: #e1e4e8; padding: 3px 6px; border-radius: 4px;">Fork</code> the Repository.</li>
 <li>If already forked then <code style="background-color: #e1e4e8; padding: 3px 6px; border-radius: 4px;">sync</code> fork repository.</li>
+<li>Edit Line 9 of the setting.js<code style="background-color: #e1e4e8; padding: 3px 6px; border-radius: 4px;">Code</code> paste your base64 session id<code style="background-color: #e1e4e8; padding: 3px 6px; border-radius: 4px;">get it for the session button below and save</code>.</li>
 <li>Click on the green <code style="background-color: #e1e4e8; padding: 3px 6px; border-radius: 4px;">Code</code> button and click <code style="background-color: #e1e4e8; padding: 3px 6px; border-radius: 4px;">download as zip</code>.</li>
 <li><code style="background-color: #e1e4e8; padding: 3px 6px; border-radius: 4px;">Upload</code> the script zip file to your <code style="background-color: #e1e4e8; padding: 3px 6px; border-radius: 4px;">panel</code>.</li>
 <li><code style="background-color: #e1e4e8; padding: 3px 6px; border-radius: 4px;">Unarchive</code> the uploaded zip file.</li>
 <li>Open the <code style="background-color: #e1e4e8; padding: 3px 6px; border-radius: 4px;">unarchived folder</code> and <code style="background-color: #e1e4e8; padding: 3px 6px; border-radius: 4px;">move</code> all files to container by typing (<code style="background-color: #e1e4e8; padding: 3px 6px; border-radius: 4px;">../</code>)</li>
 <li>Now go to <code style="background-color: #e1e4e8; padding: 3px 6px; border-radius: 4px;">console</code> and <code style="background-color: #e1e4e8; padding: 3px 6px; border-radius: 4px;">start</code> bot.</li>
-<li>Wait for <code style="background-color: #e1e4e8; padding: 3px 6px; border-radius: 4px;">5-10 mins</code> to enter your number.</li>
-<li>Enter your number when requested to get the pair code.</li>
-<li>Enter pair code in link devices in whatsapp.</li>
 <li><strong style="color: #28a745;">✓ Deployment successful!</strong></li>
 </ol>
 </td>
@@ -122,7 +120,7 @@ ___
 <p align="center"><i>✨ Keep your bot updated regularly to enjoy the latest features and patches.</i></p>
 ___
 
-## ✨ NEMESIS MD FEATURES
+## ✨ NEMESIS MD V3 FEATURES
 
 - 🤖 WhatsApp Multi-Device Support
 - 🔁 Anti-Delete (Text + Media)
