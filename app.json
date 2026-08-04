@@ -1,0 +1,21 @@
+{
+  "name": "NEMESIS-MD",
+  "description": "NEMESIS-MD WhatsApp bot made by ridzcoder",
+  "logo": "https://files.catbox.moe/dynze8.png",
+  "keywords": ["bot","NEMESIS-MD","Ridzcoder"],
+  "success_url": "/",
+
+  "env": {
+    "SESSION_ID": {
+        "description": "Put the NEMESIS-MD session-id here.",
+        "required": true
+    }
+},
+
+"buildpacks": [
+    {
+        "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+    }
+],
+"stack": "heroku-24"
+}
